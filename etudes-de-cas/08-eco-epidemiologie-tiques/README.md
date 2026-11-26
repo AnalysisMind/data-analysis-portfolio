@@ -1,4 +1,4 @@
-# Étude de cas 08 — Éco-épidémiologie des tiques au Bénin
+# Étude de cas 08 — Éco-épidémiologie des tiques
 
 **Domaine** : épidémiologie, enquête de terrain  
 **Outils** : KoboToolbox, Excel, STATISTICA
