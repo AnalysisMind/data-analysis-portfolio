@@ -29,6 +29,22 @@ Ce dépôt présente des **études de cas rédigées** : la question posée, la 
 | 14 | [Sérologie ELISA](etudes-de-cas/14-serologie-elisa/README.md) | `prop.test`, Fisher, odds ratios, IC 95 % |
 | 15 | [Plantes mellifères et miel](etudes-de-cas/15-plantes-melliferes-miel/README.md) | Shannon, fréquence de citation, régression linéaire |
 
+## Contact
+
+Vous avez un projet d'analyse, une question méthodologique ou besoin d'une restitution claire ? Je serai ravi d'en discuter.
+
+**Je peux vous aider à :**
+
+- structurer une question de recherche ou un plan d'analyse ;
+- analyser des données d'enquête, biologiques ou épidémiologiques ;
+- produire un rapport détaillé : objectifs, hypothèses, méthodologie, résultats, interprétation, conclusions ;
+- concevoir des tableaux de bord et des visuels de restitution.
+
+📧 **[analysismind.data@gmail.com](mailto:analysismind.data@gmail.com)**  
+🔗 [GitHub](https://github.com/AnalysisMind)
+
+Je réponds généralement sous 48 h. Les échanges et les données partagées restent confidentiels : rien n'est publié sans accord préalable.
+
 ## Note de confidentialité
 
 Toutes les études de cas de ce dépôt sont **anonymisées**.
