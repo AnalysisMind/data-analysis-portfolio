@@ -172,6 +172,24 @@ img {
   margin-bottom: 0.35rem;
 }
 
+.services-box {
+  border-left: 4px solid #4c8c6a;
+  background: #f2f8f4;
+  border-radius: 0.35rem;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.services-box > p:first-child {
+  color: #1f4e63;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.services-box ul {
+  margin-bottom: 0;
+}
+
 .study-nav {
   display: flex;
   justify-content: space-between;

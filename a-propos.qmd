@@ -26,8 +26,8 @@ Toutes les études de cas de ce dépôt sont **anonymisées**. Les chiffres dét
 
 Vous avez un projet d'analyse, une question méthodologique ou besoin d'une restitution claire ? Je serai ravi d'en discuter.
 
-::: {.callout-tip}
-**Je peux vous aider à :**
+::: {.services-box}
+**Services — je peux vous aider à :**
 
 - structurer une question de recherche ou un plan d'analyse ;
 - analyser des données d'enquête, biologiques ou épidémiologiques ;
