@@ -16,10 +16,7 @@ Data analyst spécialisé en **biostatistique**. J'accompagne des projets de rec
 <div class="stats">
   <div><strong>15</strong><span>études de cas</span></div>
   <div><strong>6</strong><span>domaines couverts</span></div>
-  <div><strong>Descriptives</strong><span>analyses</span></div>
-  <div><strong>Inférentielles</strong><span>analyses</span></div>
-  <div><strong>Multivariées</strong><span>analyses</span></div>
-  <div><strong>Modélisation</strong><span>analyses</span></div>
+  <div><strong>Outils</strong><span>R · Quarto</span></div>
 </div>
 
 <div class="livrable">
