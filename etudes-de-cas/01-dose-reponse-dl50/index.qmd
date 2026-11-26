@@ -13,6 +13,15 @@ description: "Classer les populations testées par sensibilité et orienter les 
 | **Outils** | R 4.6.0 (`readxl`, `dplyr`, `tidyr`, `openxlsx`, `officer`, `flextable`) |
 | **Méthodes clés** | Régression binomiale, estimation LC50/LC90, comparaison de sensibilité |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Estimer et comparer les concentrations létales (LC50, LC90) de populations de tiques testées face à deux molécules acaricides (alphacyperméthrine et amitraz), afin de caractériser leur niveau de sensibilité.
+- **Méthodes** : Régression binomiale, estimation LC50/LC90, comparaison de sensibilité
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : Des concentrations létales ont été estimées pour les deux molécules testées et pour chacune des populations.
+:::
+
 ## Données
 
 Données de mortalité issues d'essais biologiques en concentration croissante, structurées en format long (dose, nombre d'individus testés, nombre de mortalités, population, molécule). Les données brutes sont confidentielles et ne sont pas publiées ici.
@@ -42,3 +51,10 @@ Données de mortalité issues d'essais biologiques en concentration croissante, 
 ## Interprétation
 
 L'approche par régression binomiale permet de passer d'observations de mortalité brutales à une **relation dose-effet continue**, et donc de comparer des populations sur une échelle commune. Elle fournit des indicateurs directement exploitables (LC50, LC90) pour recommander des stratégies de traitement ou de surveillance.
+
+
+<div class="study-nav">
+  <span><span class="muted">← Première étude</span></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../02-indices-ethnobotaniques/index.qmd">Étude suivante</a> →</span>
+</div>

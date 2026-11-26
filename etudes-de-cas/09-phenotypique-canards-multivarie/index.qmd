@@ -13,6 +13,15 @@ description: "Identifier les clusters phénotypiques et quantifier l'effet de la
 | **Outils** | R 4.6.0 (`tidyverse`, ACP, ACM, CAH, PERMANOVA) |
 | **Méthodes clés** | CCI, ACP, ACM, CAH, PERMANOVA, Monte-Carlo |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Comment la zone géographique et le sexe structurent-ils la variabilité morphométrique et phénotypique d'une population de canards domestiques ?
+- **Méthodes** : CCI, ACP, ACM, CAH, PERMANOVA, Monte-Carlo
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : 17 des 23 paramètres initiaux présentent des biais inter-communes ; 6 variables robustes ont été retenues.
+:::
+
 ## Données
 
 733 individus, 23 paramètres squelettiques et pondéraux, 12 variables qualitatives de plumage et pigmentation. Données confidentielles.
@@ -45,3 +54,10 @@ description: "Identifier les clusters phénotypiques et quantifier l'effet de la
 ## Interprétation
 
 L'analyse illustre un pipeline multivarié complet : **contrôle qualité → réduction de dimension → classification → validation par permutations**. Elle permet de passer d'un grand nombre de mesures à une structuration biologique interprétable.
+
+
+<div class="study-nav">
+  <span>← <a href="../08-eco-epidemiologie-tiques/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../10-mensurations-tests-non-parametriques/index.qmd">Étude suivante</a> →</span>
+</div>

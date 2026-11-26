@@ -13,6 +13,15 @@ description: "Prioriser les leviers digitaux ayant le plus d'effet sur la satisf
 | **Outils** | Excel, SPSS |
 | **Méthodes clés** | Alpha de Cronbach, corrélation, régression linéaire |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Comment l'adoption des services digitaux et l'expérience digitale influencent-elles la satisfaction des clients d'une banque ?
+- **Méthodes** : Alpha de Cronbach, corrélation, régression linéaire
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : Tous les alpha de Cronbach sont supérieurs à 0,7 : bonne fiabilité des échelles.
+:::
+
 ## Données
 
 Données d'enquête anonymisées issues de questionnaires (échelles de Likert). Les données brutes ne sont pas publiées.
@@ -43,3 +52,10 @@ Données d'enquête anonymisées issues de questionnaires (échelles de Likert).
 ## Interprétation
 
 La démarche montre un enchaînement complet : **validation des échelles → exploration des corrélations → modélisation**. Elle permet de quantifier le poids relatif de chaque levier digital sur la satisfaction et d'orienter les recommandations opérationnelles.
+
+
+<div class="study-nav">
+  <span>← <a href="../04-diversite-abondance-tiques/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../06-financement-organisations-femmes/index.qmd">Étude suivante</a> →</span>
+</div>

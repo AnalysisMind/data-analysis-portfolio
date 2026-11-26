@@ -13,6 +13,15 @@ description: "Identifier les espèces associées à la présence de larves pour 
 | **Outils** | R (`glm`, `ggplot2`) |
 | **Méthodes clés** | GLM binomial, courbes de prédiction |
 
+::: {.brief}
+**En bref**
+
+- **Question** : L'abondance de différentes espèces de phytoplanctons dans les points d'eau est-elle associée à la présence de larves d'*Anopheles gambiae* ?
+- **Méthodes** : GLM binomial, courbes de prédiction
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : L'abondance de *Kirchneriella* est associée à une augmentation marquée de la probabilité de présence de larves.
+:::
+
 ## Données
 
 Abondances de dix espèces de phytoplanctons et statut de présence/absence de larves. Données de terrain confidentielles.
@@ -42,3 +51,10 @@ Abondances de dix espèces de phytoplanctons et statut de présence/absence de l
 ## Interprétation
 
 La modélisation GLM transforme des comptages écologiques en **probabilités de présence**, plus faciles à communiquer. L'approche par courbes de prédiction rend les effets de chaque espèce lisibles sans exposer les données brutes.
+
+
+<div class="study-nav">
+  <span>← <a href="../10-mensurations-tests-non-parametriques/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../12-plantes-medicinales-menopause/index.qmd">Étude suivante</a> →</span>
+</div>

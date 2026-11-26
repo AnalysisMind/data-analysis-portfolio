@@ -13,6 +13,15 @@ description: "Distinguer les sites par la structure des peuplements malgré une 
 | **Outils** | R, indices de diversité et de similarité |
 | **Méthodes clés** | Shannon, Piélou, Sørensen, Bray-Curtis, rarefaction |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Quelles espèces de tiques sont présentes le long de deux axes dans un parc et sa périphérie, et comment leur abondance, leur sex-ratio et leur diversité varient-elles selon les sites et les saisons ?
+- **Méthodes** : Shannon, Piélou, Sørensen, Bray-Curtis, rarefaction
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : Quatre espèces d'importance vétérinaire et zoonotique identifiées, présentes sur les deux axes mais en proportions significativement différentes (p < 0,0001).
+:::
+
 ## Données
 
 Collectes sur quatre sites (deux axes, parc/périphérie), avec effectifs, espèces, stades de développement et saison. Données confidentielles.
@@ -44,3 +53,10 @@ Collectes sur quatre sites (deux axes, parc/périphérie), avec effectifs, espè
 ## Interprétation
 
 L'analyse distingue clairement **composition** (identique) et **structure des peuplements** (abondances et sex-ratios différents). Elle illustre l'usage combiné des indices de diversité, de rarefaction et de similarité en écologie.
+
+
+<div class="study-nav">
+  <span>← <a href="../12-plantes-medicinales-menopause/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../14-serologie-elisa/index.qmd">Étude suivante</a> →</span>
+</div>

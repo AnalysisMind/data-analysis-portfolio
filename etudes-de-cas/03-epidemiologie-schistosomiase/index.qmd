@@ -13,6 +13,15 @@ description: "Décrire l'infection, identifier les facteurs associés et évalue
 | **Outils** | R 4.6.0, package `epiR` |
 | **Méthodes clés** | Prévalence, IC 95 %, Fisher, OR ajustés, Kappa, sensibilité/spécificité |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Décrire le profil de l'échantillon et les déterminants de l'infection, puis évaluer la performance d'une méthode de diagnostic (Mini-FLOTAC) par rapport à une méthode de référence (test d'éclosion).
+- **Méthodes** : Prévalence, IC 95 %, Fisher, OR ajustés, Kappa, sensibilité/spécificité
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : Le profil de l'échantillon a été décrit par des fréquences et IC 95 % pour l'ensemble des variables sociodémographiques, cliniques et malacologiques.
+:::
+
 ## Données
 
 Base structurée sous Excel comprenant des variables sociodémographiques (sexe, classe d'âge, profession), cliniques (type d'échantillon, statut biologique, intensité de l'infection) et malacologiques (espèces, échelle mensuelle et saisonnière). Données confidentielles, non publiées ici.
@@ -43,3 +52,10 @@ Base structurée sous Excel comprenant des variables sociodémographiques (sexe,
 ## Interprétation
 
 Cette analyse combine **description, recherche de déterminants et validation d'outil diagnostique**. L'utilisation de tests exacts et de méthodes de bootstrap tient compte des faibles effectifs, tandis que les OR ajustés permettent de distinguer les associations indépendantes. Elle illustre un pipeline complet d'analyse épidémiologique, de la donnée brute à la décision de santé publique.
+
+
+<div class="study-nav">
+  <span>← <a href="../02-indices-ethnobotaniques/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../04-diversite-abondance-tiques/index.qmd">Étude suivante</a> →</span>
+</div>

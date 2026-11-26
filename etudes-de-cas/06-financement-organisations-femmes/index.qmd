@@ -13,6 +13,15 @@ description: "Renforcer l'accès des organisations au financement en agissant su
 | **Outils** | Excel, SPSS |
 | **Méthodes clés** | Fiabilité des échelles, corrélations, régression linéaire |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Quels facteurs internes et externes facilitent ou limitent l'accès au financement des organisations féministes, et comment les sources de financement sont-elles perçues par les bailleurs ?
+- **Méthodes** : Fiabilité des échelles, corrélations, régression linéaire
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : Bonne consistance interne des échelles (α = 0,850 et 0,772).
+:::
+
 ## Données
 
 Données d'enquête anonymisées auprès de bailleurs et de structures (échelles de Likert, items multiples). Non publiées ici.
@@ -43,3 +52,10 @@ Données d'enquête anonymisées auprès de bailleurs et de structures (échelle
 ## Interprétation
 
 L'analyse combines descriptive et modélisation pour séparer les **leviers organisationnels** (audit, structuration) des **contraintes opérationnelles**. Elle fournit des pistes concrètes pour renforcer l'accès des structures aux financements.
+
+
+<div class="study-nav">
+  <span>← <a href="../05-digitalisation-satisfaction-bancaire/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../07-analyse-sensorielle/index.qmd">Étude suivante</a> →</span>
+</div>

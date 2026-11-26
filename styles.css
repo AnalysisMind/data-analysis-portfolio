@@ -83,3 +83,131 @@ img {
 .navbar-brand {
   font-weight: 600;
 }
+
+.hero .btn {
+  margin-top: 1.2rem;
+}
+
+.hero .btn + .btn {
+  margin-left: 0.5rem;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-top: 1.2rem;
+}
+
+.feature-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dce6eb;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(31, 78, 99, 0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 18px rgba(31, 78, 99, 0.14);
+}
+
+.feature-card img {
+  width: 100%;
+  border-bottom: 1px solid #e4ecf0;
+}
+
+.feature-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1rem;
+}
+
+.feature-body h3 {
+  font-size: 1.05rem;
+  margin: 0 0 0.5rem;
+}
+
+.feature-body h3 a {
+  color: #1f4e63;
+  text-decoration: none;
+}
+
+.feature-body p {
+  font-size: 0.9rem;
+  color: #5b6b73;
+  margin: 0;
+}
+
+.brief {
+  border-left: 4px solid #2b6e8f;
+  background: #f5f8fa;
+  border-radius: 0.35rem;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.brief p:first-child {
+  font-weight: 700;
+  color: #1f4e63;
+  margin-bottom: 0.5rem;
+}
+
+.brief ul {
+  margin-bottom: 0;
+}
+
+.brief li {
+  margin-bottom: 0.35rem;
+}
+
+.study-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  border-top: 1px solid #dce6eb;
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.study-nav .muted {
+  color: #8a99a1;
+}
+
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.2rem 0;
+}
+
+.filter-btn {
+  border: 1px solid #cddce4;
+  background: #fff;
+  color: #2b6e8f;
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.filter-btn:hover {
+  background: #eef5f8;
+}
+
+.filter-btn.active {
+  background: #2b6e8f;
+  color: #fff;
+  border-color: #2b6e8f;
+}
+
+.study-table td,
+.study-table th {
+  vertical-align: top;
+}

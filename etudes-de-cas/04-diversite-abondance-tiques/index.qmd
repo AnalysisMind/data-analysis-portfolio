@@ -13,6 +13,15 @@ description: "Cibler les zones de surveillance et les espèces à prioriser dans
 | **Outils** | Excel, STATISTICA |
 | **Méthodes clés** | Jaccard, χ², prévalence, charge parasitaire |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Quelle est la composition spécifique des tiques collectées sur les bovins dans 14 communes, et comment la diversité et l'abondance varient-elles selon la localisation, l'âge et le sexe des animaux ?
+- **Méthodes** : Jaccard, χ², prévalence, charge parasitaire
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : *Rhipicephalus microplus* domine largement (72,59 % des tiques), devant *Amblyomma variegatum* (9,68 %) et *R. decoloratus* (8,02 %).
+:::
+
 ## Données
 
 5 488 tiques identifiées sur 1 952 bovins, réparties en 14 communes. Données de terrain confidentielles, non publiées ici.
@@ -43,3 +52,10 @@ description: "Cibler les zones de surveillance et les espèces à prioriser dans
 ## Interprétation
 
 La combinaison des indices de similarité et des tests de contingence permet de distinguer **homogénéité des espèces présentes** et **hétérogénéité des abondances**, information utile pour cibler les zones de surveillance et les stratégies de lutte contre les tiques.
+
+
+<div class="study-nav">
+  <span>← <a href="../03-epidemiologie-schistosomiase/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../05-digitalisation-satisfaction-bancaire/index.qmd">Étude suivante</a> →</span>
+</div>

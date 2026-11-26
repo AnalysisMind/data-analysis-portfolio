@@ -13,6 +13,15 @@ description: "Choisir les espèces à privilégier dans les plantations et estim
 | **Outils** | R, indices de diversité, régression linéaire |
 | **Méthodes clés** | Shannon, fréquence de citation, régression linéaire |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Quelle est la diversité des plantes mellifères d'une arrondissement, quelles espèces sont les plus exploitées par les abeilles, et comment la production de miel varie-t-elle avec le nombre de ruches ?
+- **Méthodes** : Shannon, fréquence de citation, régression linéaire
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : Indice de Shannon global H = 3,195 (genres : 3,004), équitabilité J = 0,81 : flore riche et équilibrée.
+:::
+
 ## Données
 
 68 espèces mellifères recensées (62 genres, 29 familles), 30 apiculteurs interrogés, 10 séquences de butinage et relevés de floraison. Données confidentielles.
@@ -45,3 +54,10 @@ description: "Choisir les espèces à privilégier dans les plantations et estim
 ## Interprétation
 
 Le projet combine **biodiversité**, **comportement de butinage** et **performance économique**. Les résultats identifient les espèces à privilégier dans les plantations et quantifient le lien entre colonisation des ruches et récolte.
+
+
+<div class="study-nav">
+  <span>← <a href="../14-serologie-elisa/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><span class="muted">Dernière étude →</span></span>
+</div>

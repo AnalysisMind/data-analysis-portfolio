@@ -13,6 +13,15 @@ description: "Comparer les mensurations entre zones et sexes malgré la non-norm
 | **Outils** | R 4.6.0 (`tidyverse`, `readxl`, `broom`, `officer`, `flextable`) |
 | **Méthodes clés** | Shapiro-Wilk, Kruskal-Wallis, Mann-Whitney, outliers |
 
+::: {.brief}
+**En bref**
+
+- **Question** : Comment comparer les mensurations corporelles de canards domestiques entre zones géographiques, selon le sexe et selon l'interaction Zone × Sexe, lorsque la normalité est rejetée ?
+- **Méthodes** : Shapiro-Wilk, Kruskal-Wallis, Mann-Whitney, outliers
+- **Livrable** : Rapport détaillé anonymisé et tableau de bord
+- **Résultat clé** : Les variables morphométriques ne suivent pas une distribution normale.
+:::
+
 ## Données
 
 Plus de 700 individus mesurés. Données de terrain confidentielles, non publiées ici.
@@ -44,3 +53,10 @@ Plus de 700 individus mesurés. Données de terrain confidentielles, non publié
 ## Interprétation
 
 Ce cas illustre la **transition du descriptif paramétrique vers des tests de rang robustes**, avec un traitement explicite des outliers et une restitution lisible des comparaisons multiples — trois points critiques en biostatistique appliquée.
+
+
+<div class="study-nav">
+  <span>← <a href="../09-phenotypique-canards-multivarie/index.qmd">Étude précédente</a></span>
+  <a href="../../etudes.qmd">Retour à la liste</a>
+  <span><a href="../11-densite-larvaire-glm/index.qmd">Étude suivante</a> →</span>
+</div>
