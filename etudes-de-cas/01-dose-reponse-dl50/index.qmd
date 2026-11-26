@@ -33,7 +33,7 @@ Données de mortalité issues d'essais biologiques en concentration croissante, 
 
 *Les valeurs numériques précises et les courbes dose-réponse ne sont pas publiées ici (données de travail confidentielles).*
 
-![Courbe dose-réponse illustrant l'estimation des concentrations létales](../../figures/01-dose-reponse.png)
+![Courbe dose-réponse illustrant l'estimation des concentrations létales](../../figures/dash-01-dose-reponse.png)
 
 ## Limites
 

@@ -33,7 +33,7 @@ Données d'enquête anonymisées : citations d'espèces végétales, catégories
 
 *Les figures et les tableaux détaillés ne sont pas publiés ici (données de travail confidentielles).*
 
-![Fréquence de citation et facteur de consensus par catégorie](../../figures/02-indices-ethnobotaniques.png)
+![Fréquence de citation et facteur de consensus par catégorie](../../figures/dash-02-indices-ethnobotaniques.png)
 
 ## Limites
 

@@ -35,7 +35,7 @@ Collectes sur quatre sites (deux axes, parc/périphérie), avec effectifs, espè
 
 *Limites : aucune capture en saison sèche et effectifs réduits en périphérie.*
 
-![Courbes de rarefaction de la richesse spécifique](../../figures/13-rarefaction.png)
+![Courbes de rarefaction de la richesse spécifique](../../figures/dash-13-rarefaction.png)
 
 ## Limites
 

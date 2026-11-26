@@ -33,7 +33,7 @@ Données d'enquête collectées avec KoboToolbox, codées et exploitées sous Ex
 
 *Cartes et tableaux détaillés non publiés ici.*
 
-![Plan factoriel issu d'une analyse des correspondances multiples](../../figures/08-acm.png)
+![Plan factoriel issu d'une analyse des correspondances multiples](../../figures/dash-08-acm.png)
 
 ## Limites
 

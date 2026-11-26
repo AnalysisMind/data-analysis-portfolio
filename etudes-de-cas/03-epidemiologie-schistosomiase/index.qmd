@@ -34,7 +34,7 @@ Base structurée sous Excel comprenant des variables sociodémographiques (sexe,
 
 *Les valeurs précises, tableaux de contingence et courbes ne sont pas publiés ici (données de travail confidentielles).*
 
-![Odds ratios ajustés avec intervalles de confiance](../../figures/03-epidemiologie.png)
+![Odds ratios ajustés avec intervalles de confiance](../../figures/dash-03-epidemiologie.png)
 
 ## Limites
 

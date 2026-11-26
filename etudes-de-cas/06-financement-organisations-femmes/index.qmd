@@ -34,7 +34,7 @@ Données d'enquête anonymisées auprès de bailleurs et de structures (échelle
 
 *Les tableaux détaillés ne sont pas publiés ici.*
 
-![Effets positifs et négatifs sur l'accès au financement](../../figures/06-financement.png)
+![Effets positifs et négatifs sur l'accès au financement](../../figures/dash-06-financement.png)
 
 ## Limites
 

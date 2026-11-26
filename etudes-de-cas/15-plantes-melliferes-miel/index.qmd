@@ -36,7 +36,7 @@ description: "Choisir les espèces à privilégier dans les plantations et estim
 
 *Limites : échantillon restreint, une seule saison, deux cultures étudiées.*
 
-![Relation entre ruches colonisées et volume de miel récolté](../../figures/15-miel.png)
+![Relation entre ruches colonisées et volume de miel récolté](../../figures/dash-15-miel.png)
 
 ## Limites
 

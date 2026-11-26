@@ -34,7 +34,7 @@ description: "Cibler les zones de surveillance et les espèces à prioriser dans
 
 *Les tableaux détaillés et les cartes ne sont pas publiés ici.*
 
-![Abondance relative des espèces par commune](../../figures/04-tiques-communes.png)
+![Abondance relative des espèces par commune](../../figures/dash-04-tiques-communes.png)
 
 ## Limites
 

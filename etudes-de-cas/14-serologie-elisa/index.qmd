@@ -32,7 +32,7 @@ description: "Hiérarchiser les espèces et les sites à risque pour la surveill
 
 *Tableaux détaillés non publiés ici.*
 
-![Séroprévalence par espèce avec intervalles de confiance](../../figures/14-serologie.png)
+![Séroprévalence par espèce avec intervalles de confiance](../../figures/dash-14-serologie.png)
 
 ## Limites
 

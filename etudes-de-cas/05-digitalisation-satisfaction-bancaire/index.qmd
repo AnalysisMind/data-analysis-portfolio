@@ -34,7 +34,7 @@ Données d'enquête anonymisées issues de questionnaires (échelles de Likert).
 
 *Les coefficients détaillés et les tableaux ne sont pas publiés ici.*
 
-![Coefficients de régression avec intervalles de confiance](../../figures/05-satisfaction.png)
+![Coefficients de régression avec intervalles de confiance](../../figures/dash-05-satisfaction.png)
 
 ## Limites
 

@@ -33,7 +33,7 @@ description: "Sélectionner les plantes et modes de préparation à étudier en 
 
 *Tableaux détaillés non publiés ici.*
 
-![Fréquence des signes déclarés par catégorie clinique](../../figures/12-menopause.png)
+![Fréquence des signes déclarés par catégorie clinique](../../figures/dash-12-menopause.png)
 
 ## Limites
 

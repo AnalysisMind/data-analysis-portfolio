@@ -33,7 +33,7 @@ Abondances de dix espèces de phytoplanctons et statut de présence/absence de l
 
 *Figures et coefficients détaillés non publiés ici.*
 
-![Courbes de probabilité prédites par un GLM binomial](../../figures/11-glm-larvaires.png)
+![Courbes de probabilité prédites par un GLM binomial](../../figures/dash-11-glm-larvaires.png)
 
 ## Limites
 

@@ -36,7 +36,7 @@ description: "Identifier les clusters phénotypiques et quantifier l'effet de la
 
 *Graphiques, dendrogrammes et tableaux détaillés non publiés ici.*
 
-![Biplot ACP avec clusters phénotypiques](../../figures/09-acp-canards.png)
+![Biplot ACP avec clusters phénotypiques](../../figures/dash-09-acp-canards.png)
 
 ## Limites
 

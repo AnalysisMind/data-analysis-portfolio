@@ -35,7 +35,7 @@ Plus de 700 individus mesurés. Données de terrain confidentielles, non publié
 
 *Tableaux détaillés non publiés ici.*
 
-![Distribution des mensurations par zone et sexe](../../figures/10-mensurations.png)
+![Distribution des mensurations par zone et sexe](../../figures/dash-10-mensurations.png)
 
 ## Limites
 

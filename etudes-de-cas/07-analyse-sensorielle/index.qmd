@@ -33,7 +33,7 @@ Notes sensorielles attribuées à six échantillons selon plusieurs critères (c
 
 *Figures et tableaux de notes détaillés non publiés ici.*
 
-![Profils sensoriels comparés sur six critères](../../figures/07-sensorielle.png)
+![Profils sensoriels comparés sur six critères](../../figures/dash-07-sensorielle.png)
 
 ## Limites
 
