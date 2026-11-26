@@ -77,27 +77,27 @@ Data analyst spécialisé en **biostatistique**. J'accompagne des projets de rec
 <div class="feature-grid">
 
 <div class="feature-card">
-  <a href="etudes-de-cas/01-dose-reponse-dl50/index.qmd"><img src="figures/dash-01-dose-reponse.png" alt="Tableau de bord de l'étude dose-réponse"></a>
-  <div class="feature-body">
-    <h3><a href="etudes-de-cas/01-dose-reponse-dl50/index.qmd">01 — Dose-réponse et DL50</a></h3>
-    <p>Modélisation binomiale, estimation des concentrations létales, comparaison de sensibilité.</p>
-  </div>
+<a href="etudes-de-cas/01-dose-reponse-dl50/index.qmd"><img src="figures/dash-01-dose-reponse.png" alt="Tableau de bord de l'étude dose-réponse"></a>
+<div class="feature-body">
+<h3><a href="etudes-de-cas/01-dose-reponse-dl50/index.qmd">01 — Dose-réponse et DL50</a></h3>
+<p>Modélisation binomiale, estimation des concentrations létales, comparaison de sensibilité.</p>
+</div>
 </div>
 
 <div class="feature-card">
-  <a href="etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd"><img src="figures/dash-09-acp-canards.png" alt="Tableau de bord de l'étude phénotype des canards"></a>
-  <div class="feature-body">
-    <h3><a href="etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd">09 — Phénotype des canards</a></h3>
-    <p>Contrôle qualité, ACP/ACM/CAH, PERMANOVA — un pipeline multivarié complet.</p>
-  </div>
+<a href="etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd"><img src="figures/dash-09-acp-canards.png" alt="Tableau de bord de l'étude phénotype des canards"></a>
+<div class="feature-body">
+<h3><a href="etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd">09 — Phénotype des canards</a></h3>
+<p>Contrôle qualité, ACP/ACM/CAH, PERMANOVA — un pipeline multivarié complet.</p>
+</div>
 </div>
 
 <div class="feature-card">
-  <a href="etudes-de-cas/14-serologie-elisa/index.qmd"><img src="figures/dash-14-serologie.png" alt="Tableau de bord de l'étude sérologie ELISA"></a>
-  <div class="feature-body">
-    <h3><a href="etudes-de-cas/14-serologie-elisa/index.qmd">14 — Sérologie ELISA</a></h3>
-    <p>Prévalences avec IC 95 %, Fisher et odds ratios malgré de faibles effectifs.</p>
-  </div>
+<a href="etudes-de-cas/14-serologie-elisa/index.qmd"><img src="figures/dash-14-serologie.png" alt="Tableau de bord de l'étude sérologie ELISA"></a>
+<div class="feature-body">
+<h3><a href="etudes-de-cas/14-serologie-elisa/index.qmd">14 — Sérologie ELISA</a></h3>
+<p>Prévalences avec IC 95 %, Fisher et odds ratios malgré de faibles effectifs.</p>
+</div>
 </div>
 
 </div>
