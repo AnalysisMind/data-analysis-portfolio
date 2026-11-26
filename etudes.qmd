@@ -1,0 +1,28 @@
+---
+title: "Études de cas"
+description: "Les 15 études de cas anonymisées du portfolio."
+---
+
+Chaque étude suit le même plan : **besoin → décision éclairée → données → démarche statistique → résultats anonymisés → figure illustrative → limites → interprétation**.
+
+| # | Étude | Domaine | Méthodes clés |
+|---|---|---|---|
+| 01 | [Dose-réponse et concentrations létales (DL50)](etudes-de-cas/01-dose-reponse-dl50/index.qmd) | Dose-réponse | Régression binomiale, LC50/LC90 |
+| 02 | [Indices ethnobotaniques quantitatifs](etudes-de-cas/02-indices-ethnobotaniques/index.qmd) | Ethnobotanique | FC, ICF, descriptif |
+| 03 | [Épidémiologie de la schistosomiase](etudes-de-cas/03-epidemiologie-schistosomiase/index.qmd) | Épidémiologie | Prévalence, Fisher, ORa, Kappa |
+| 04 | [Diversité et abondance des tiques](etudes-de-cas/04-diversite-abondance-tiques/index.qmd) | Écologie | Jaccard, χ², prévalence |
+| 05 | [Digitalisation bancaire et satisfaction](etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.qmd) | Enquêtes | Cronbach, corrélation, régression |
+| 06 | [Financement des organisations féministes](etudes-de-cas/06-financement-organisations-femmes/index.qmd) | Enquêtes | Fiabilité, corrélations, régression |
+| 07 | [Analyse sensorielle comparative](etudes-de-cas/07-analyse-sensorielle/index.qmd) | Enquêtes | Kruskal-Wallis, ACP |
+| 08 | [Éco-épidémiologie des tiques](etudes-de-cas/08-eco-epidemiologie-tiques/index.qmd) | Épidémiologie | IC 95 %, ACM |
+| 09 | [Phénotype des canards — analyse multivariée](etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd) | Multivariée | CCI, ACP, ACM, CAH, PERMANOVA |
+| 10 | [Mensurations corporelles](etudes-de-cas/10-mensurations-tests-non-parametriques/index.qmd) | Multivariée | Shapiro-Wilk, Kruskal-Wallis, Mann-Whitney |
+| 11 | [Densité larvaire et phytoplanctons](etudes-de-cas/11-densite-larvaire-glm/index.qmd) | Épidémiologie | GLM binomial, prédictions |
+| 12 | [Plantes médicinales et ménopause](etudes-de-cas/12-plantes-medicinales-menopause/index.qmd) | Ethnobotanique | Descriptif, catégorisation clinique |
+| 13 | [Tiques en parc zoologique](etudes-de-cas/13-tiques-parc-zoologique/index.qmd) | Écologie | Shannon, Sørensen, Bray-Curtis, rarefaction |
+| 14 | [Sérologie ELISA](etudes-de-cas/14-serologie-elisa/index.qmd) | Épidémiologie | `prop.test`, Fisher, odds ratios |
+| 15 | [Plantes mellifères et miel](etudes-de-cas/15-plantes-melliferes-miel/index.qmd) | Écologie | Shannon, fréquence de citation, régression |
+
+::: {.callout-note}
+Les figures affichées dans chaque étude sont des **illustrations sur données synthétiques** : elles ne représentent ni les données ni les résultats réels de l'étude.
+:::

@@ -1,0 +1,27 @@
+---
+title: "À propos"
+description: "Analysis Mind — profil et engagement de confidentialité."
+---
+
+## Analysis Mind
+
+Data analyst spécialisé en **biostatistique**, formé à la génétique et à la biologie moléculaire. Je transforme des données de recherche et de terrain en résultats lisibles et directement exploitables pour la décision.
+
+Ce portfolio présente des **études de cas rédigées** : la question posée, la démarche statistique, les résultats et leur interprétation. Il ne s'agit pas de rapports clients : aucune donnée brute, aucun document d'origine et aucun nom de client n'y figurent.
+
+## Ce que vous trouverez ici
+
+- 15 études de cas anonymisées, de la dose-réponse à l'analyse multivariée
+- Une figure illustrative par étude, générée sur des **données synthétiques**
+- Une matrice des compétences pour naviguer par méthode
+- Des limites explicitement formulées pour chaque analyse
+
+## Confidentialité
+
+::: {.callout-note}
+Toutes les études de cas de ce dépôt sont **anonymisées**. Les chiffres détaillés, les figures réelles et les rapports d'origine restent dans des documents de travail privés.
+:::
+
+## Contact
+
+Le moyen le plus simple de me joindre est d'ouvrir une **issue sur le [dépôt GitHub](https://github.com/AnalysisMind/data-analysis-portfolio)** du portfolio.

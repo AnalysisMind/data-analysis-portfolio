@@ -1,0 +1,66 @@
+/*-- scss:rules --*/
+
+.hero {
+  padding: 2.2rem 2rem;
+  border-radius: 0.6rem;
+  background: linear-gradient(135deg, #1f4e63 0%, #2b6e8f 55%, #4c8c6a 100%);
+  color: #ffffff;
+  margin-bottom: 1.8rem;
+}
+
+.hero h1,
+.hero h3,
+.hero p {
+  color: #ffffff;
+}
+
+.hero h1 {
+  font-size: 2.1rem;
+  margin-top: 0.4rem;
+}
+
+.hero h3 {
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 1.5rem 0 2.2rem;
+}
+
+.stats > div {
+  flex: 1 1 140px;
+  background: #f5f8fa;
+  border: 1px solid #dce6eb;
+  border-radius: 0.5rem;
+  padding: 0.9rem 0.6rem;
+  text-align: center;
+}
+
+.stats strong {
+  display: block;
+  font-size: 1.5rem;
+  color: #2b6e8f;
+  line-height: 1.1;
+}
+
+.stats span {
+  display: block;
+  font-size: 0.82rem;
+  color: #5b6b73;
+  margin-top: 0.25rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}

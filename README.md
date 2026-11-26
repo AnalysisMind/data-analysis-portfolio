@@ -7,6 +7,8 @@ Data analyst spécialisé en **biostatistique**. J'accompagne des projets de rec
 
 Ce dépôt présente des **études de cas rédigées** : la question posée, la démarche statistique, les résultats et leur interprétation. Les données clients et les rapports d'origine ne sont **pas publiés** : seules les méthodes et des synthèses anonymisées sont présentées.
 
+🌐 **Site du portfolio (Quarto)** : https://analysismind.github.io/data-analysis-portfolio/
+
 ## Études de cas
 
 | # | Étude | Méthodes clés |

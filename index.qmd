@@ -1,0 +1,82 @@
+---
+title: "Analysis Mind — Data Analyst"
+description: "Portfolio d'études de cas en biostatistique, épidémiologie, écologie et analyse de données."
+---
+
+::: {.hero}
+### Biostatistique · Épidémiologie · Écologie
+
+# Des données complexes à des décisions lisibles
+
+Data analyst spécialisé en **biostatistique**. J'accompagne des projets de recherche et des études de terrain : question posée, démarche statistique, résultats et interprétation.
+
+15 études de cas rédigées, anonymisées, sans donnée client ni rapport original publié.
+:::
+
+<div class="stats">
+  <div><strong>15</strong><span>études de cas</span></div>
+  <div><strong>6</strong><span>domaines</span></div>
+  <div><strong>5 488</strong><span>tiques analysées</span></div>
+  <div><strong>733</strong><span>canards mesurés</span></div>
+  <div><strong>170</strong><span>questionnaires</span></div>
+  <div><strong>30</strong><span>apiculteurs</span></div>
+</div>
+
+## Explorer par domaine
+
+::: {.grid}
+
+::: {.g-col-6}
+### Dose-réponse & résistance
+- [01 — Dose-réponse et concentrations létales (DL50)](etudes-de-cas/01-dose-reponse-dl50/index.qmd)
+:::
+
+::: {.g-col-6}
+### Épidémiologie & santé
+- [03 — Épidémiologie de la schistosomiase](etudes-de-cas/03-epidemiologie-schistosomiase/index.qmd)
+- [08 — Éco-épidémiologie des tiques](etudes-de-cas/08-eco-epidemiologie-tiques/index.qmd)
+- [11 — Densité larvaire et phytoplanctons](etudes-de-cas/11-densite-larvaire-glm/index.qmd)
+- [14 — Sérologie ELISA](etudes-de-cas/14-serologie-elisa/index.qmd)
+:::
+
+::: {.g-col-6}
+### Écologie & biodiversité
+- [04 — Diversité et abondance des tiques](etudes-de-cas/04-diversite-abondance-tiques/index.qmd)
+- [13 — Tiques en parc zoologique](etudes-de-cas/13-tiques-parc-zoologique/index.qmd)
+- [15 — Plantes mellifères et miel](etudes-de-cas/15-plantes-melliferes-miel/index.qmd)
+:::
+
+::: {.g-col-6}
+### Ethnobotanique & plantes
+- [02 — Indices ethnobotaniques quantitatifs](etudes-de-cas/02-indices-ethnobotaniques/index.qmd)
+- [12 — Plantes médicinales et ménopause](etudes-de-cas/12-plantes-medicinales-menopause/index.qmd)
+:::
+
+::: {.g-col-6}
+### Enquêtes & comportements
+- [05 — Digitalisation bancaire et satisfaction](etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.qmd)
+- [06 — Financement des organisations féministes](etudes-de-cas/06-financement-organisations-femmes/index.qmd)
+- [07 — Analyse sensorielle comparative](etudes-de-cas/07-analyse-sensorielle/index.qmd)
+:::
+
+::: {.g-col-6}
+### Analyse multivariée & morphométrie
+- [09 — Phénotype des canards](etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd)
+- [10 — Mensurations corporelles](etudes-de-cas/10-mensurations-tests-non-parametriques/index.qmd)
+:::
+
+:::
+
+[Voir les 15 études de cas →](etudes.qmd){.btn .btn-primary}
+
+## Trois études à découvrir
+
+| Étude | Ce qu'elle montre |
+|---|---|
+| [01 — Dose-réponse et DL50](etudes-de-cas/01-dose-reponse-dl50/index.qmd) | Modélisation binomiale, estimation des concentrations létales, comparaison de sensibilité |
+| [09 — Phénotype des canards](etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd) | Contrôle qualité, ACP/ACM/CAH, PERMANOVA — un pipeline multivarié complet |
+| [14 — Sérologie ELISA](etudes-de-cas/14-serologie-elisa/index.qmd) | Prévalences avec IC 95 %, Fisher et odds ratios malgré de faibles effectifs |
+
+::: {.callout-note}
+Toutes les études de cas de ce dépôt sont **anonymisées**. Les chiffres détaillés, les figures réelles et les rapports d'origine restent dans des documents de travail privés. Les illustrations présentées ici sont générées sur des **données synthétiques**.
+:::

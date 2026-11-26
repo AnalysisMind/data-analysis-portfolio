@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Analysis Mind"
+  description: "Portfolio d'analyses de données — biostatistique, épidémiologie, écologie"
+  navbar:
+    background: primary
+    left:
+      - text: Accueil
+        href: index.qmd
+      - text: Études de cas
+        href: etudes.qmd
+      - text: Compétences
+        href: competences.qmd
+      - text: À propos
+        href: a-propos.qmd
+    right:
+      - icon: github
+        href: https://github.com/AnalysisMind/data-analysis-portfolio
+        aria-label: Dépôt GitHub
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme: [cosmo, styles.css]
+    lang: fr
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    smooth-scroll: true
