@@ -403,7 +403,7 @@
     "href": "competences.html#outils",
     "title": "Compétences",
     "section": "Outils",
-    "text": "Outils\nR (tidyverse, readxl, dplyr, tidyr, openxlsx, officer, flextable, epiR, ggplot2) · STATISTICA · Excel · SPSS · KoboToolbox · Quarto"
+    "text": "Outils\nR — manipulation et restitution : tidyverse, dplyr, tidyr, readxl, openxlsx, officer, flextable, ggplot2\nR — statistiques et modélisation : epiR, FactoMineR, factoextra, FactoShiny, car, PMCMRplus, lme4, nnet, MASS, survival, tidymodels, broom\nAutres outils : STATISTICA · Excel · SPSS · KoboToolbox · Quarto"
   },
   {
     "objectID": "competences.html#domaines-couverts",
