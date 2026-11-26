@@ -7,6 +7,8 @@ website:
   description: "Portfolio d'analyses de données — biostatistique, épidémiologie, écologie"
   navbar:
     background: primary
+    logo: figures/logo.png
+    logo-alt: "Logo Analysis Mind"
     left:
       - text: Accueil
         href: index.qmd
