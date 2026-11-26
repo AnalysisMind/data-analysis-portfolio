@@ -29,7 +29,7 @@ Ce dépôt présente des **études de cas rédigées** : la question posée, la 
 
 ## Note de confidentialité
 
-Toutes les études de cas de ce dépôt sont **anonymisées** : aucun nom de client, aucune donnée brute nominative, aucun rapport original. Les chiffres détaillés et les figures restent dans les documents de travail privés.
+Toutes les études de cas de ce dépôt sont **anonymisées**.
 
 ---
 
