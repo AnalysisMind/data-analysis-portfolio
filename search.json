@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Analysis Mind — Data Analyst",
     "section": "",
-    "text": "Data analyst spécialisé en biostatistique. J’accompagne des projets de recherche et des études de terrain : question posée, démarche statistique, résultats et interprétation.\n15 études de cas rédigées, anonymisées, sans donnée client ni rapport original publié."
+    "text": "Data analyst spécialisé en biostatistique. J’accompagne des projets de recherche et des études de terrain : question posée, démarche statistique, résultats et interprétation.\n15 études de cas rédigées, anonymisées, sans donnée client ni rapport original publié.\nVoir les 15 études Me contacter"
   },
   {
     "objectID": "index.html#explorer-par-domaine",
@@ -18,7 +18,7 @@
     "href": "index.html#trois-études-à-découvrir",
     "title": "Analysis Mind — Data Analyst",
     "section": "Trois études à découvrir",
-    "text": "Trois études à découvrir\n\n\n\nÉtude\nCe qu’elle montre\n\n\n\n\n01 — Dose-réponse et DL50\nModélisation binomiale, estimation des concentrations létales, comparaison de sensibilité\n\n\n09 — Phénotype des canards\nContrôle qualité, ACP/ACM/CAH, PERMANOVA — un pipeline multivarié complet\n\n\n14 — Sérologie ELISA\nPrévalences avec IC 95 %, Fisher et odds ratios malgré de faibles effectifs\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nToutes les études de cas de ce dépôt sont anonymisées. Les chiffres détaillés, les figures réelles et les rapports d’origine restent dans des documents de travail privés. Les tableaux de bord offrent une lecture visuelle des résultats."
+    "text": "Trois études à découvrir\n\n\n\n\n&lt;h3&gt;&lt;a href=\"etudes-de-cas/01-dose-reponse-dl50/index.qmd\"&gt;01 — Dose-réponse et DL50&lt;/a&gt;&lt;/h3&gt;\n&lt;p&gt;Modélisation binomiale, estimation des concentrations létales, comparaison de sensibilité.&lt;/p&gt;\n\n\n\n\n\n&lt;h3&gt;&lt;a href=\"etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd\"&gt;09 — Phénotype des canards&lt;/a&gt;&lt;/h3&gt;\n&lt;p&gt;Contrôle qualité, ACP/ACM/CAH, PERMANOVA — un pipeline multivarié complet.&lt;/p&gt;\n\n\n\n\n\n&lt;h3&gt;&lt;a href=\"etudes-de-cas/14-serologie-elisa/index.qmd\"&gt;14 — Sérologie ELISA&lt;/a&gt;&lt;/h3&gt;\n&lt;p&gt;Prévalences avec IC 95 %, Fisher et odds ratios malgré de faibles effectifs.&lt;/p&gt;\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nToutes les études de cas de ce dépôt sont anonymisées. Les chiffres détaillés, les figures réelles et les rapports d’origine restent dans des documents de travail privés. Les tableaux de bord offrent une lecture visuelle des résultats."
   },
   {
     "objectID": "etudes-de-cas/15-plantes-melliferes-miel/index.html",
@@ -60,7 +60,7 @@
     "href": "etudes-de-cas/15-plantes-melliferes-miel/index.html#interprétation",
     "title": "Étude de cas 15 — Plantes mellifères et production de miel",
     "section": "Interprétation",
-    "text": "Interprétation\nLe projet combine biodiversité, comportement de butinage et performance économique. Les résultats identifient les espèces à privilégier dans les plantations et quantifient le lien entre colonisation des ruches et récolte."
+    "text": "Interprétation\nLe projet combine biodiversité, comportement de butinage et performance économique. Les résultats identifient les espèces à privilégier dans les plantations et quantifient le lien entre colonisation des ruches et récolte.\n\n← Étude précédente Retour à la liste Dernière étude →"
   },
   {
     "objectID": "etudes-de-cas/13-tiques-parc-zoologique/index.html",
@@ -102,7 +102,7 @@
     "href": "etudes-de-cas/13-tiques-parc-zoologique/index.html#interprétation",
     "title": "Étude de cas 13 — Diversité des tiques en parc zoologique et périphérie",
     "section": "Interprétation",
-    "text": "Interprétation\nL’analyse distingue clairement composition (identique) et structure des peuplements (abondances et sex-ratios différents). Elle illustre l’usage combiné des indices de diversité, de rarefaction et de similarité en écologie."
+    "text": "Interprétation\nL’analyse distingue clairement composition (identique) et structure des peuplements (abondances et sex-ratios différents). Elle illustre l’usage combiné des indices de diversité, de rarefaction et de similarité en écologie.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/11-densite-larvaire-glm/index.html",
@@ -144,7 +144,7 @@
     "href": "etudes-de-cas/11-densite-larvaire-glm/index.html#interprétation",
     "title": "Étude de cas 11 — Densité larvaire et abondances de phytoplanctons",
     "section": "Interprétation",
-    "text": "Interprétation\nLa modélisation GLM transforme des comptages écologiques en probabilités de présence, plus faciles à communiquer. L’approche par courbes de prédiction rend les effets de chaque espèce lisibles sans exposer les données brutes."
+    "text": "Interprétation\nLa modélisation GLM transforme des comptages écologiques en probabilités de présence, plus faciles à communiquer. L’approche par courbes de prédiction rend les effets de chaque espèce lisibles sans exposer les données brutes.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/09-phenotypique-canards-multivarie/index.html",
@@ -186,7 +186,7 @@
     "href": "etudes-de-cas/09-phenotypique-canards-multivarie/index.html#interprétation",
     "title": "Étude de cas 09 — Analyse multivariée du phénotype de canards domestiques",
     "section": "Interprétation",
-    "text": "Interprétation\nL’analyse illustre un pipeline multivarié complet : contrôle qualité → réduction de dimension → classification → validation par permutations. Elle permet de passer d’un grand nombre de mesures à une structuration biologique interprétable."
+    "text": "Interprétation\nL’analyse illustre un pipeline multivarié complet : contrôle qualité → réduction de dimension → classification → validation par permutations. Elle permet de passer d’un grand nombre de mesures à une structuration biologique interprétable.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/07-analyse-sensorielle/index.html",
@@ -228,7 +228,7 @@
     "href": "etudes-de-cas/07-analyse-sensorielle/index.html#interprétation",
     "title": "Étude de cas 07 — Analyse sensorielle comparative de formulations",
     "section": "Interprétation",
-    "text": "Interprétation\nLe choix de tests non paramétriques, imposé par la non-normalité, est complété par une ACP qui synthétise les profils sensoriels. Cette combinaison permet de réduire un grand nombre de critères à une recommandation de formulation lisible."
+    "text": "Interprétation\nLe choix de tests non paramétriques, imposé par la non-normalité, est complété par une ACP qui synthétise les profils sensoriels. Cette combinaison permet de réduire un grand nombre de critères à une recommandation de formulation lisible.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html",
@@ -270,7 +270,7 @@
     "href": "etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html#interprétation",
     "title": "Étude de cas 05 — Digitalisation bancaire et satisfaction client",
     "section": "Interprétation",
-    "text": "Interprétation\nLa démarche montre un enchaînement complet : validation des échelles → exploration des corrélations → modélisation. Elle permet de quantifier le poids relatif de chaque levier digital sur la satisfaction et d’orienter les recommandations opérationnelles."
+    "text": "Interprétation\nLa démarche montre un enchaînement complet : validation des échelles → exploration des corrélations → modélisation. Elle permet de quantifier le poids relatif de chaque levier digital sur la satisfaction et d’orienter les recommandations opérationnelles.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/03-epidemiologie-schistosomiase/index.html",
@@ -312,7 +312,7 @@
     "href": "etudes-de-cas/03-epidemiologie-schistosomiase/index.html#interprétation",
     "title": "Étude de cas 03 — Épidémiologie de la schistosomiase",
     "section": "Interprétation",
-    "text": "Interprétation\nCette analyse combine description, recherche de déterminants et validation d’outil diagnostique. L’utilisation de tests exacts et de méthodes de bootstrap tient compte des faibles effectifs, tandis que les OR ajustés permettent de distinguer les associations indépendantes. Elle illustre un pipeline complet d’analyse épidémiologique, de la donnée brute à la décision de santé publique."
+    "text": "Interprétation\nCette analyse combine description, recherche de déterminants et validation d’outil diagnostique. L’utilisation de tests exacts et de méthodes de bootstrap tient compte des faibles effectifs, tandis que les OR ajustés permettent de distinguer les associations indépendantes. Elle illustre un pipeline complet d’analyse épidémiologique, de la donnée brute à la décision de santé publique.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/01-dose-reponse-dl50/index.html",
@@ -354,7 +354,7 @@
     "href": "etudes-de-cas/01-dose-reponse-dl50/index.html#interprétation",
     "title": "Étude de cas 01 — Dose-réponse et concentrations létales (DL50)",
     "section": "Interprétation",
-    "text": "Interprétation\nL’approche par régression binomiale permet de passer d’observations de mortalité brutales à une relation dose-effet continue, et donc de comparer des populations sur une échelle commune. Elle fournit des indicateurs directement exploitables (LC50, LC90) pour recommander des stratégies de traitement ou de surveillance."
+    "text": "Interprétation\nL’approche par régression binomiale permet de passer d’observations de mortalité brutales à une relation dose-effet continue, et donc de comparer des populations sur une échelle commune. Elle fournit des indicateurs directement exploitables (LC50, LC90) pour recommander des stratégies de traitement ou de surveillance.\n\n← Première étude Retour à la liste Étude suivante →"
   },
   {
     "objectID": "a-propos.html",
@@ -452,7 +452,7 @@
     "href": "etudes-de-cas/02-indices-ethnobotaniques/index.html#interprétation",
     "title": "Étude de cas 02 — Indices ethnobotaniques quantitatifs",
     "section": "Interprétation",
-    "text": "Interprétation\nLes indices ethnobotaniques transforment des citations qualitatives en indicateurs comparables. La fréquence de citation met en évidence les espèces les plus présentes dans la pratique, tandis que l’ICF révèle les syndromes pour lesquels les savoirs sont les plus partagés — deux informations complémentaires pour prioriser des études pharmacologiques ou de conservation."
+    "text": "Interprétation\nLes indices ethnobotaniques transforment des citations qualitatives en indicateurs comparables. La fréquence de citation met en évidence les espèces les plus présentes dans la pratique, tandis que l’ICF révèle les syndromes pour lesquels les savoirs sont les plus partagés — deux informations complémentaires pour prioriser des études pharmacologiques ou de conservation.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/04-diversite-abondance-tiques/index.html",
@@ -494,7 +494,7 @@
     "href": "etudes-de-cas/04-diversite-abondance-tiques/index.html#interprétation",
     "title": "Étude de cas 04 — Diversité et abondance des tiques par commune",
     "section": "Interprétation",
-    "text": "Interprétation\nLa combinaison des indices de similarité et des tests de contingence permet de distinguer homogénéité des espèces présentes et hétérogénéité des abondances, information utile pour cibler les zones de surveillance et les stratégies de lutte contre les tiques."
+    "text": "Interprétation\nLa combinaison des indices de similarité et des tests de contingence permet de distinguer homogénéité des espèces présentes et hétérogénéité des abondances, information utile pour cibler les zones de surveillance et les stratégies de lutte contre les tiques.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/06-financement-organisations-femmes/index.html",
@@ -536,7 +536,7 @@
     "href": "etudes-de-cas/06-financement-organisations-femmes/index.html#interprétation",
     "title": "Étude de cas 06 — Financement des organisations féministes",
     "section": "Interprétation",
-    "text": "Interprétation\nL’analyse combines descriptive et modélisation pour séparer les leviers organisationnels (audit, structuration) des contraintes opérationnelles. Elle fournit des pistes concrètes pour renforcer l’accès des structures aux financements."
+    "text": "Interprétation\nL’analyse combines descriptive et modélisation pour séparer les leviers organisationnels (audit, structuration) des contraintes opérationnelles. Elle fournit des pistes concrètes pour renforcer l’accès des structures aux financements.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/08-eco-epidemiologie-tiques/index.html",
@@ -578,7 +578,7 @@
     "href": "etudes-de-cas/08-eco-epidemiologie-tiques/index.html#interprétation",
     "title": "Étude de cas 08 — Éco-épidémiologie des tiques",
     "section": "Interprétation",
-    "text": "Interprétation\nL’ACM permet de résumer un grand tableau de contingence en quelques axes interprétables. Elle révèle des groupes de pratiques à risque et aide à cibler les messages de sensibilisation des éleveurs."
+    "text": "Interprétation\nL’ACM permet de résumer un grand tableau de contingence en quelques axes interprétables. Elle révèle des groupes de pratiques à risque et aide à cibler les messages de sensibilisation des éleveurs.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/10-mensurations-tests-non-parametriques/index.html",
@@ -620,7 +620,7 @@
     "href": "etudes-de-cas/10-mensurations-tests-non-parametriques/index.html#interprétation",
     "title": "Étude de cas 10 — Mensurations corporelles",
     "section": "Interprétation",
-    "text": "Interprétation\nCe cas illustre la transition du descriptif paramétrique vers des tests de rang robustes, avec un traitement explicite des outliers et une restitution lisible des comparaisons multiples — trois points critiques en biostatistique appliquée."
+    "text": "Interprétation\nCe cas illustre la transition du descriptif paramétrique vers des tests de rang robustes, avec un traitement explicite des outliers et une restitution lisible des comparaisons multiples — trois points critiques en biostatistique appliquée.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/12-plantes-medicinales-menopause/index.html",
@@ -662,7 +662,7 @@
     "href": "etudes-de-cas/12-plantes-medicinales-menopause/index.html#interprétation",
     "title": "Étude de cas 12 — Plantes médicinales et signes de la ménopause",
     "section": "Interprétation",
-    "text": "Interprétation\nLe regroupement thématique des réponses multiples permet de produire des indicateurs de pratique exploitables, tout en conservant la traçabilité des catégories cliniques. Il facilite la sélection des plantes à étudier en pharmacologie."
+    "text": "Interprétation\nLe regroupement thématique des réponses multiples permet de produire des indicateurs de pratique exploitables, tout en conservant la traçabilité des catégories cliniques. Il facilite la sélection des plantes à étudier en pharmacologie.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes-de-cas/14-serologie-elisa/index.html",
@@ -704,13 +704,13 @@
     "href": "etudes-de-cas/14-serologie-elisa/index.html#interprétation",
     "title": "Étude de cas 14 — Séroprévalence ELISA chez animaux sauvages et domestiques",
     "section": "Interprétation",
-    "text": "Interprétation\nLe couplage prop.test / fisher.test fournit un cadre complet : estimation avec incertitude puis test d’association. Il permet de hiérarchiser les espèces et les sites à risque malgré des effectifs parfois faibles."
+    "text": "Interprétation\nLe couplage prop.test / fisher.test fournit un cadre complet : estimation avec incertitude puis test d’association. Il permet de hiérarchiser les espèces et les sites à risque malgré des effectifs parfois faibles.\n\n← Étude précédente Retour à la liste Étude suivante →"
   },
   {
     "objectID": "etudes.html",
     "href": "etudes.html",
     "title": "Études de cas",
     "section": "",
-    "text": "Chaque étude suit le même plan : besoin → décision éclairée → données → démarche statistique → résultats anonymisés → tableau de bord → limites → interprétation.\n\n\n\n#\nÉtude\nDomaine\nMéthodes clés\n\n\n\n\n01\nDose-réponse et concentrations létales (DL50)\nDose-réponse\nRégression binomiale, LC50/LC90\n\n\n02\nIndices ethnobotaniques quantitatifs\nEthnobotanique\nFC, ICF, descriptif\n\n\n03\nÉpidémiologie de la schistosomiase\nÉpidémiologie\nPrévalence, Fisher, ORa, Kappa\n\n\n04\nDiversité et abondance des tiques\nÉcologie\nJaccard, χ², prévalence\n\n\n05\nDigitalisation bancaire et satisfaction\nEnquêtes\nCronbach, corrélation, régression\n\n\n06\nFinancement des organisations féministes\nEnquêtes\nFiabilité, corrélations, régression\n\n\n07\nAnalyse sensorielle comparative\nEnquêtes\nKruskal-Wallis, ACP\n\n\n08\nÉco-épidémiologie des tiques\nÉpidémiologie\nIC 95 %, ACM\n\n\n09\nPhénotype des canards — analyse multivariée\nMultivariée\nCCI, ACP, ACM, CAH, PERMANOVA\n\n\n10\nMensurations corporelles\nMultivariée\nShapiro-Wilk, Kruskal-Wallis, Mann-Whitney\n\n\n11\nDensité larvaire et phytoplanctons\nÉpidémiologie\nGLM binomial, prédictions\n\n\n12\nPlantes médicinales et ménopause\nEthnobotanique\nDescriptif, catégorisation clinique\n\n\n13\nTiques en parc zoologique\nÉcologie\nShannon, Sørensen, Bray-Curtis, rarefaction\n\n\n14\nSérologie ELISA\nÉpidémiologie\nprop.test, Fisher, odds ratios\n\n\n15\nPlantes mellifères et miel\nÉcologie\nShannon, fréquence de citation, régression\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nChaque tableau de bord est une restitution visuelle des résultats décrits dans l’étude."
+    "text": "Chaque étude suit le même plan : besoin → décision éclairée → données → démarche statistique → résultats anonymisés → tableau de bord → limites → interprétation.\n\nTous Biostatistique Épidémiologie Écologie Multivarié Enquêtes Ethnobotanique\n\n\n\n\n\n#\n\n\nÉtude\n\n\nDomaine\n\n\nMéthodes clés\n\n\n\n\n\n\n01\n\n\nDose-réponse et concentrations létales (DL50)\n\n\nDose-réponse\n\n\nRégression binomiale, LC50/LC90\n\n\n\n\n02\n\n\nIndices ethnobotaniques quantitatifs\n\n\nEthnobotanique\n\n\nFC, ICF, descriptif\n\n\n\n\n03\n\n\nÉpidémiologie de la schistosomiase\n\n\nÉpidémiologie\n\n\nPrévalence, Fisher, ORa, Kappa\n\n\n\n\n04\n\n\nDiversité et abondance des tiques\n\n\nÉcologie\n\n\nJaccard, χ², prévalence\n\n\n\n\n05\n\n\nDigitalisation bancaire et satisfaction\n\n\nEnquêtes\n\n\nCronbach, corrélation, régression\n\n\n\n\n06\n\n\nFinancement des organisations féministes\n\n\nEnquêtes\n\n\nFiabilité, corrélations, régression\n\n\n\n\n07\n\n\nAnalyse sensorielle comparative\n\n\nEnquêtes\n\n\nKruskal-Wallis, ACP\n\n\n\n\n08\n\n\nÉco-épidémiologie des tiques\n\n\nÉpidémiologie\n\n\nIC 95 %, ACM\n\n\n\n\n09\n\n\nPhénotype des canards — analyse multivariée\n\n\nMultivariée\n\n\nCCI, ACP, ACM, CAH, PERMANOVA\n\n\n\n\n10\n\n\nMensurations corporelles\n\n\nMultivariée\n\n\nShapiro-Wilk, Kruskal-Wallis, Mann-Whitney\n\n\n\n\n11\n\n\nDensité larvaire et phytoplanctons\n\n\nÉpidémiologie\n\n\nGLM binomial, prédictions\n\n\n\n\n12\n\n\nPlantes médicinales et ménopause\n\n\nEthnobotanique\n\n\nDescriptif, catégorisation clinique\n\n\n\n\n13\n\n\nTiques en parc zoologique\n\n\nÉcologie\n\n\nShannon, Sørensen, Bray-Curtis, rarefaction\n\n\n\n\n14\n\n\nSérologie ELISA\n\n\nÉpidémiologie\n\n\nprop.test, Fisher, odds ratios\n\n\n\n\n15\n\n\nPlantes mellifères et miel\n\n\nÉcologie\n\n\nShannon, fréquence de citation, régression\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nChaque tableau de bord est une restitution visuelle des résultats décrits dans l’étude."
   }
 ]

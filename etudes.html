@@ -43,7 +43,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-10312b5fed239e4145292d8181aff877.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-13bf8cdd92670fa72609b89d3bcfb2ca.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -157,108 +157,255 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Chaque étude suit le même plan : <strong>besoin → décision éclairée → données → démarche statistique → résultats anonymisés → tableau de bord → limites → interprétation</strong>.</p>
-<table class="caption-top table">
+<div class="filter-bar" role="group" aria-label="Filtrer les études par domaine">
+<p><button class="filter-btn active" data-filter="all">Tous</button> <button class="filter-btn" data-filter="biostatistique">Biostatistique</button> <button class="filter-btn" data-filter="epidemiologie">Épidémiologie</button> <button class="filter-btn" data-filter="ecologie">Écologie</button> <button class="filter-btn" data-filter="multivarie">Multivarié</button> <button class="filter-btn" data-filter="enquetes">Enquêtes</button> <button class="filter-btn" data-filter="ethnobotanique">Ethnobotanique</button></p>
+</div>
+<table class="study-table">
 <thead>
-<tr class="header">
-<th>#</th>
-<th>Étude</th>
-<th>Domaine</th>
-<th>Méthodes clés</th>
+<tr>
+<th>
+#
+</th>
+<th>
+Étude
+</th>
+<th>
+Domaine
+</th>
+<th>
+Méthodes clés
+</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td>01</td>
-<td><a href="./etudes-de-cas/01-dose-reponse-dl50/index.html">Dose-réponse et concentrations létales (DL50)</a></td>
-<td>Dose-réponse</td>
-<td>Régression binomiale, LC50/LC90</td>
+<tr data-cat="biostatistique">
+<td>
+01
+</td>
+<td>
+<a href="./etudes-de-cas/01-dose-reponse-dl50/index.html">Dose-réponse et concentrations létales (DL50)</a>
+</td>
+<td>
+Dose-réponse
+</td>
+<td>
+Régression binomiale, LC50/LC90
+</td>
 </tr>
-<tr class="even">
-<td>02</td>
-<td><a href="./etudes-de-cas/02-indices-ethnobotaniques/index.html">Indices ethnobotaniques quantitatifs</a></td>
-<td>Ethnobotanique</td>
-<td>FC, ICF, descriptif</td>
+<tr data-cat="ethnobotanique">
+<td>
+02
+</td>
+<td>
+<a href="./etudes-de-cas/02-indices-ethnobotaniques/index.html">Indices ethnobotaniques quantitatifs</a>
+</td>
+<td>
+Ethnobotanique
+</td>
+<td>
+FC, ICF, descriptif
+</td>
 </tr>
-<tr class="odd">
-<td>03</td>
-<td><a href="./etudes-de-cas/03-epidemiologie-schistosomiase/index.html">Épidémiologie de la schistosomiase</a></td>
-<td>Épidémiologie</td>
-<td>Prévalence, Fisher, ORa, Kappa</td>
+<tr data-cat="epidemiologie">
+<td>
+03
+</td>
+<td>
+<a href="./etudes-de-cas/03-epidemiologie-schistosomiase/index.html">Épidémiologie de la schistosomiase</a>
+</td>
+<td>
+Épidémiologie
+</td>
+<td>
+Prévalence, Fisher, ORa, Kappa
+</td>
 </tr>
-<tr class="even">
-<td>04</td>
-<td><a href="./etudes-de-cas/04-diversite-abondance-tiques/index.html">Diversité et abondance des tiques</a></td>
-<td>Écologie</td>
-<td>Jaccard, χ², prévalence</td>
+<tr data-cat="ecologie">
+<td>
+04
+</td>
+<td>
+<a href="./etudes-de-cas/04-diversite-abondance-tiques/index.html">Diversité et abondance des tiques</a>
+</td>
+<td>
+Écologie
+</td>
+<td>
+Jaccard, χ², prévalence
+</td>
 </tr>
-<tr class="odd">
-<td>05</td>
-<td><a href="./etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html">Digitalisation bancaire et satisfaction</a></td>
-<td>Enquêtes</td>
-<td>Cronbach, corrélation, régression</td>
+<tr data-cat="enquetes">
+<td>
+05
+</td>
+<td>
+<a href="./etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html">Digitalisation bancaire et satisfaction</a>
+</td>
+<td>
+Enquêtes
+</td>
+<td>
+Cronbach, corrélation, régression
+</td>
 </tr>
-<tr class="even">
-<td>06</td>
-<td><a href="./etudes-de-cas/06-financement-organisations-femmes/index.html">Financement des organisations féministes</a></td>
-<td>Enquêtes</td>
-<td>Fiabilité, corrélations, régression</td>
+<tr data-cat="enquetes">
+<td>
+06
+</td>
+<td>
+<a href="./etudes-de-cas/06-financement-organisations-femmes/index.html">Financement des organisations féministes</a>
+</td>
+<td>
+Enquêtes
+</td>
+<td>
+Fiabilité, corrélations, régression
+</td>
 </tr>
-<tr class="odd">
-<td>07</td>
-<td><a href="./etudes-de-cas/07-analyse-sensorielle/index.html">Analyse sensorielle comparative</a></td>
-<td>Enquêtes</td>
-<td>Kruskal-Wallis, ACP</td>
+<tr data-cat="enquetes">
+<td>
+07
+</td>
+<td>
+<a href="./etudes-de-cas/07-analyse-sensorielle/index.html">Analyse sensorielle comparative</a>
+</td>
+<td>
+Enquêtes
+</td>
+<td>
+Kruskal-Wallis, ACP
+</td>
 </tr>
-<tr class="even">
-<td>08</td>
-<td><a href="./etudes-de-cas/08-eco-epidemiologie-tiques/index.html">Éco-épidémiologie des tiques</a></td>
-<td>Épidémiologie</td>
-<td>IC 95 %, ACM</td>
+<tr data-cat="epidemiologie">
+<td>
+08
+</td>
+<td>
+<a href="./etudes-de-cas/08-eco-epidemiologie-tiques/index.html">Éco-épidémiologie des tiques</a>
+</td>
+<td>
+Épidémiologie
+</td>
+<td>
+IC 95 %, ACM
+</td>
 </tr>
-<tr class="odd">
-<td>09</td>
-<td><a href="./etudes-de-cas/09-phenotypique-canards-multivarie/index.html">Phénotype des canards — analyse multivariée</a></td>
-<td>Multivariée</td>
-<td>CCI, ACP, ACM, CAH, PERMANOVA</td>
+<tr data-cat="multivarie">
+<td>
+09
+</td>
+<td>
+<a href="./etudes-de-cas/09-phenotypique-canards-multivarie/index.html">Phénotype des canards — analyse multivariée</a>
+</td>
+<td>
+Multivariée
+</td>
+<td>
+CCI, ACP, ACM, CAH, PERMANOVA
+</td>
 </tr>
-<tr class="even">
-<td>10</td>
-<td><a href="./etudes-de-cas/10-mensurations-tests-non-parametriques/index.html">Mensurations corporelles</a></td>
-<td>Multivariée</td>
-<td>Shapiro-Wilk, Kruskal-Wallis, Mann-Whitney</td>
+<tr data-cat="multivarie">
+<td>
+10
+</td>
+<td>
+<a href="./etudes-de-cas/10-mensurations-tests-non-parametriques/index.html">Mensurations corporelles</a>
+</td>
+<td>
+Multivariée
+</td>
+<td>
+Shapiro-Wilk, Kruskal-Wallis, Mann-Whitney
+</td>
 </tr>
-<tr class="odd">
-<td>11</td>
-<td><a href="./etudes-de-cas/11-densite-larvaire-glm/index.html">Densité larvaire et phytoplanctons</a></td>
-<td>Épidémiologie</td>
-<td>GLM binomial, prédictions</td>
+<tr data-cat="epidemiologie">
+<td>
+11
+</td>
+<td>
+<a href="./etudes-de-cas/11-densite-larvaire-glm/index.html">Densité larvaire et phytoplanctons</a>
+</td>
+<td>
+Épidémiologie
+</td>
+<td>
+GLM binomial, prédictions
+</td>
 </tr>
-<tr class="even">
-<td>12</td>
-<td><a href="./etudes-de-cas/12-plantes-medicinales-menopause/index.html">Plantes médicinales et ménopause</a></td>
-<td>Ethnobotanique</td>
-<td>Descriptif, catégorisation clinique</td>
+<tr data-cat="ethnobotanique">
+<td>
+12
+</td>
+<td>
+<a href="./etudes-de-cas/12-plantes-medicinales-menopause/index.html">Plantes médicinales et ménopause</a>
+</td>
+<td>
+Ethnobotanique
+</td>
+<td>
+Descriptif, catégorisation clinique
+</td>
 </tr>
-<tr class="odd">
-<td>13</td>
-<td><a href="./etudes-de-cas/13-tiques-parc-zoologique/index.html">Tiques en parc zoologique</a></td>
-<td>Écologie</td>
-<td>Shannon, Sørensen, Bray-Curtis, rarefaction</td>
+<tr data-cat="ecologie">
+<td>
+13
+</td>
+<td>
+<a href="./etudes-de-cas/13-tiques-parc-zoologique/index.html">Tiques en parc zoologique</a>
+</td>
+<td>
+Écologie
+</td>
+<td>
+Shannon, Sørensen, Bray-Curtis, rarefaction
+</td>
 </tr>
-<tr class="even">
-<td>14</td>
-<td><a href="./etudes-de-cas/14-serologie-elisa/index.html">Sérologie ELISA</a></td>
-<td>Épidémiologie</td>
-<td><code>prop.test</code>, Fisher, odds ratios</td>
+<tr data-cat="epidemiologie">
+<td>
+14
+</td>
+<td>
+<a href="./etudes-de-cas/14-serologie-elisa/index.html">Sérologie ELISA</a>
+</td>
+<td>
+Épidémiologie
+</td>
+<td>
+<code>prop.test</code>, Fisher, odds ratios
+</td>
 </tr>
-<tr class="odd">
-<td>15</td>
-<td><a href="./etudes-de-cas/15-plantes-melliferes-miel/index.html">Plantes mellifères et miel</a></td>
-<td>Écologie</td>
-<td>Shannon, fréquence de citation, régression</td>
+<tr data-cat="ecologie">
+<td>
+15
+</td>
+<td>
+<a href="./etudes-de-cas/15-plantes-melliferes-miel/index.html">Plantes mellifères et miel</a>
+</td>
+<td>
+Écologie
+</td>
+<td>
+Shannon, fréquence de citation, régression
+</td>
 </tr>
 </tbody>
 </table>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var buttons = document.querySelectorAll(".filter-btn");
+  var lines = document.querySelectorAll(".study-table tbody tr");
+  buttons.forEach(function (button) {
+    button.addEventListener("click", function () {
+      buttons.forEach(function (b) { b.classList.remove("active"); });
+      button.classList.add("active");
+      var filter = button.dataset.filter;
+      lines.forEach(function (line) {
+        line.style.display = (filter === "all" || line.dataset.cat === filter) ? "" : "none";
+      });
+    });
+  });
+});
+</script>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
