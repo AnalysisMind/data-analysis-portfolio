@@ -18,7 +18,7 @@
     "href": "index.html#trois-études-à-découvrir",
     "title": "Analysis Mind — Data Analyst",
     "section": "Trois études à découvrir",
-    "text": "Trois études à découvrir\n\n\n\nÉtude\nCe qu’elle montre\n\n\n\n\n01 — Dose-réponse et DL50\nModélisation binomiale, estimation des concentrations létales, comparaison de sensibilité\n\n\n09 — Phénotype des canards\nContrôle qualité, ACP/ACM/CAH, PERMANOVA — un pipeline multivarié complet\n\n\n14 — Sérologie ELISA\nPrévalences avec IC 95 %, Fisher et odds ratios malgré de faibles effectifs\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nToutes les études de cas de ce dépôt sont anonymisées. Les chiffres détaillés, les figures réelles et les rapports d’origine restent dans des documents de travail privés. Les illustrations présentées ici sont générées sur des données synthétiques."
+    "text": "Trois études à découvrir\n\n\n\nÉtude\nCe qu’elle montre\n\n\n\n\n01 — Dose-réponse et DL50\nModélisation binomiale, estimation des concentrations létales, comparaison de sensibilité\n\n\n09 — Phénotype des canards\nContrôle qualité, ACP/ACM/CAH, PERMANOVA — un pipeline multivarié complet\n\n\n14 — Sérologie ELISA\nPrévalences avec IC 95 %, Fisher et odds ratios malgré de faibles effectifs\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nToutes les études de cas de ce dépôt sont anonymisées. Les chiffres détaillés, les figures réelles et les rapports d’origine restent dans des documents de travail privés. Les tableaux de bord offrent une lecture visuelle des résultats."
   },
   {
     "objectID": "etudes-de-cas/15-plantes-melliferes-miel/index.html",
@@ -42,11 +42,11 @@
     "text": "Démarche statistique\n\nRichesse spécifique et indice de Shannon-Wiener (H’, Hg) avec équitabilité de Piélou.\nFréquence de citation des espèces par les apiculteurs.\nAnalyse des types biologiques et des classes de floraison.\nSuivi du ratio abeilles/fleurs près du rucher et à distance, sur deux cultures.\nRégression linéaire du volume de miel récolté selon le nombre de ruches colonisées."
   },
   {
-    "objectID": "etudes-de-cas/15-plantes-melliferes-miel/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/15-plantes-melliferes-miel/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/15-plantes-melliferes-miel/index.html#résultats",
+    "href": "etudes-de-cas/15-plantes-melliferes-miel/index.html#résultats",
     "title": "Étude de cas 15 — Plantes mellifères et production de miel",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nIndice de Shannon global H = 3,195 (genres : 3,004), équitabilité J = 0,81 : flore riche et équilibrée.\nCinq espèces stratégiques dépassent 83 % de citation ; 16 des 27 espèces citées ont une valeur apicole importante (F &gt; 50 %).\nLa floraison longue domine (38 espèces, 55,88 %), concentrée sur trois mois.\nLa fréquentation des fleurs est 2,6 à 3,4 fois supérieure à proximité du rucher selon la culture.\nLe temps passé par fleur diminue lorsque la séquence de butinage s’allonge (4,46 s vs 3,20 s).\nRendement moyen : 5,84 L par ruche ; modèle L = 36,6 + 3,72 × (nombre de ruches), r = 0,78, R² = 0,61, p &lt; 0,001.\n\nLimites : échantillon restreint, une seule saison, deux cultures étudiées.\n\n\n\nRelation entre ruches colonisées et volume de miel récolté\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nIndice de Shannon global H = 3,195 (genres : 3,004), équitabilité J = 0,81 : flore riche et équilibrée.\nCinq espèces stratégiques dépassent 83 % de citation ; 16 des 27 espèces citées ont une valeur apicole importante (F &gt; 50 %).\nLa floraison longue domine (38 espèces, 55,88 %), concentrée sur trois mois.\nLa fréquentation des fleurs est 2,6 à 3,4 fois supérieure à proximité du rucher selon la culture.\nLe temps passé par fleur diminue lorsque la séquence de butinage s’allonge (4,46 s vs 3,20 s).\nRendement moyen : 5,84 L par ruche ; modèle L = 36,6 + 3,72 × (nombre de ruches), r = 0,78, R² = 0,61, p &lt; 0,001.\n\nLimites : échantillon restreint, une seule saison, deux cultures étudiées.\n\n\n\nRelation entre ruches colonisées et volume de miel récolté"
   },
   {
     "objectID": "etudes-de-cas/15-plantes-melliferes-miel/index.html#limites",
@@ -84,11 +84,11 @@
     "text": "Démarche statistique\n\nDescription des variables qualitatives par effectifs, fréquences et intervalles de confiance exacts de Clopper-Pearson (IC 95 %).\nRichesse spécifique (S), abondance relative, indice de Shannon-Wiener (H’) et équitabilité de Piélou (J’).\nIndices de similarité de Sørensen et de dissimilarité de Bray-Curtis.\nRarefaction de la richesse pour standardiser l’effort d’échantillonnage.\nComparaison des distributions par tests statistiques et analyse des sex-ratios."
   },
   {
-    "objectID": "etudes-de-cas/13-tiques-parc-zoologique/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/13-tiques-parc-zoologique/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/13-tiques-parc-zoologique/index.html#résultats",
+    "href": "etudes-de-cas/13-tiques-parc-zoologique/index.html#résultats",
     "title": "Étude de cas 13 — Diversité des tiques en parc zoologique et périphérie",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nQuatre espèces d’importance vétérinaire et zoonotique identifiées, présentes sur les deux axes mais en proportions significativement différentes (p &lt; 0,0001).\nLa richesse spécifique est constante (S = 4) et l’indice de Shannon varie de 1,069 à 1,215 : diversité élevée et équilibrée.\nSørensen = 1,000 pour toutes les paires de sites : mêmes espèces partout, sans espèce exclusive.\nBray-Curtis varie de 0,139 à 0,265 : similarité de composition malgré des abondances différentes.\nDeux profils de sex-ratio s’opposent (p &lt; 0,001) : prédominance femelle chez certaines espèces, mâle chez d’autres.\n\nLimites : aucune capture en saison sèche et effectifs réduits en périphérie.\n\n\n\nCourbes de rarefaction de la richesse spécifique\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nQuatre espèces d’importance vétérinaire et zoonotique identifiées, présentes sur les deux axes mais en proportions significativement différentes (p &lt; 0,0001).\nLa richesse spécifique est constante (S = 4) et l’indice de Shannon varie de 1,069 à 1,215 : diversité élevée et équilibrée.\nSørensen = 1,000 pour toutes les paires de sites : mêmes espèces partout, sans espèce exclusive.\nBray-Curtis varie de 0,139 à 0,265 : similarité de composition malgré des abondances différentes.\nDeux profils de sex-ratio s’opposent (p &lt; 0,001) : prédominance femelle chez certaines espèces, mâle chez d’autres.\n\nLimites : aucune capture en saison sèche et effectifs réduits en périphérie.\n\n\n\nCourbes de rarefaction de la richesse spécifique"
   },
   {
     "objectID": "etudes-de-cas/13-tiques-parc-zoologique/index.html#limites",
@@ -126,11 +126,11 @@
     "text": "Démarche statistique\n\nModèle de régression logistique généralisée (famille binomiale, lien logit) avec glm().\nVariable réponse binaire : présence = 1, absence = 0.\nVariables explicatives : abondances des dix espèces de phytoplanctons.\nGénération de jeux de données hypothétiques (newdata) en faisant varier chaque espèce de son minimum à son maximum, les autres étant fixées à leur moyenne.\nVisualisation des courbes de probabilité facettées avec ggplot2."
   },
   {
-    "objectID": "etudes-de-cas/11-densite-larvaire-glm/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/11-densite-larvaire-glm/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/11-densite-larvaire-glm/index.html#résultats",
+    "href": "etudes-de-cas/11-densite-larvaire-glm/index.html#résultats",
     "title": "Étude de cas 11 — Densité larvaire et abondances de phytoplanctons",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nL’abondance de Kirchneriella est associée à une augmentation marquée de la probabilité de présence de larves.\nÀ l’inverse, Scenedesmus quadricauda montre une relation décroissante avec cette probabilité.\nLes courbes facettées permettent de comparer visuellement l’effet de chaque espèce à abondance croissante.\n\nFigures et coefficients détaillés non publiés ici.\n\n\n\nCourbes de probabilité prédites par un GLM binomial\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nL’abondance de Kirchneriella est associée à une augmentation marquée de la probabilité de présence de larves.\nÀ l’inverse, Scenedesmus quadricauda montre une relation décroissante avec cette probabilité.\nLes courbes facettées permettent de comparer visuellement l’effet de chaque espèce à abondance croissante.\n\nFigures et coefficients détaillés non publiés ici.\n\n\n\nCourbes de probabilité prédites par un GLM binomial"
   },
   {
     "objectID": "etudes-de-cas/11-densite-larvaire-glm/index.html#limites",
@@ -168,11 +168,11 @@
     "text": "Démarche statistique\n\nDiagnostic de comparabilité inter-communes : rapports de médianes et corrélations intraclasses (CCI) pour détecter les biais de mesure.\nSélection d’un noyau de variables robustes après exclusion des paramètres instables.\nACP sur les variables quantitatives standardisées ; ACM sur les variables qualitatives.\nCAH sur les coordonnées de l’ACM pour identifier des clusters phénotypiques.\nPERMANOVA (Mesures ~ Zone × Sexe) sur matrice de distances euclidiennes.\nTableaux de contingence avec p-values simulées par Monte-Carlo (2 000 réplications) pour les faibles effectifs."
   },
   {
-    "objectID": "etudes-de-cas/09-phenotypique-canards-multivarie/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/09-phenotypique-canards-multivarie/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/09-phenotypique-canards-multivarie/index.html#résultats",
+    "href": "etudes-de-cas/09-phenotypique-canards-multivarie/index.html#résultats",
     "title": "Étude de cas 09 — Analyse multivariée du phénotype de canards domestiques",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\n17 des 23 paramètres initiaux présentent des biais inter-communes ; 6 variables robustes ont été retenues.\nL’ACP sur le noyau harmonisé restitue 61,7 % de la variance (Axe 1 : 43,7 % ; Axe 2 : 18,0 %).\nL’ACM révèle trois clusters phénotypiques confirmés par la CAH.\nLa zone géographique est le facteur structurant majeur (p &lt; 0,001 pour la quasi-totalité des variables qualitatives), le sexe étant le premier facteur de différenciation morphologique.\nLa PERMANOVA confirme la significativité des effets principaux et de l’interaction Zone × Sexe (p = 0,001).\n\nGraphiques, dendrogrammes et tableaux détaillés non publiés ici.\n\n\n\nBiplot ACP avec clusters phénotypiques\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\n17 des 23 paramètres initiaux présentent des biais inter-communes ; 6 variables robustes ont été retenues.\nL’ACP sur le noyau harmonisé restitue 61,7 % de la variance (Axe 1 : 43,7 % ; Axe 2 : 18,0 %).\nL’ACM révèle trois clusters phénotypiques confirmés par la CAH.\nLa zone géographique est le facteur structurant majeur (p &lt; 0,001 pour la quasi-totalité des variables qualitatives), le sexe étant le premier facteur de différenciation morphologique.\nLa PERMANOVA confirme la significativité des effets principaux et de l’interaction Zone × Sexe (p = 0,001).\n\nGraphiques, dendrogrammes et tableaux détaillés non publiés ici.\n\n\n\nBiplot ACP avec clusters phénotypiques"
   },
   {
     "objectID": "etudes-de-cas/09-phenotypique-canards-multivarie/index.html#limites",
@@ -210,11 +210,11 @@
     "text": "Démarche statistique\n\nTest de normalité : aucune variable ne suit une distribution normale (p &lt; 0,05).\nANOVA de Kruskal-Wallis pour comparer les échantillons critère par critère.\nComparaisons pair-à-pair de Dwass-Steel-Critchlow-Fligner.\nAnalyse en composantes principales (ACP) pour visualiser la proximité entre échantillons et critères."
   },
   {
-    "objectID": "etudes-de-cas/07-analyse-sensorielle/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/07-analyse-sensorielle/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/07-analyse-sensorielle/index.html#résultats",
+    "href": "etudes-de-cas/07-analyse-sensorielle/index.html#résultats",
     "title": "Étude de cas 07 — Analyse sensorielle comparative de formulations",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nSeuls les critères arôme, texture, goût, acidité et acceptabilité diffèrent significativement entre échantillons (p &lt; 0,05).\nLa couleur et l’aspect ne permettent pas de différencier les formulations (p &gt; 0,05).\nDeux formulations (F1 et F5) présentent les meilleures caractéristiques globales sur le plan factoriel.\nLes critères aspect et couleur, proches de l’origine dans le biplot, sont peu discriminants.\n\nFigures et tableaux de notes détaillés non publiés ici.\n\n\n\nProfils sensoriels comparés sur six critères\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nSeuls les critères arôme, texture, goût, acidité et acceptabilité diffèrent significativement entre échantillons (p &lt; 0,05).\nLa couleur et l’aspect ne permettent pas de différencier les formulations (p &gt; 0,05).\nDeux formulations (F1 et F5) présentent les meilleures caractéristiques globales sur le plan factoriel.\nLes critères aspect et couleur, proches de l’origine dans le biplot, sont peu discriminants.\n\nFigures et tableaux de notes détaillés non publiés ici.\n\n\n\nProfils sensoriels comparés sur six critères"
   },
   {
     "objectID": "etudes-de-cas/07-analyse-sensorielle/index.html#limites",
@@ -252,11 +252,11 @@
     "text": "Démarche statistique\n\nVérification de la cohérence interne des échelles par l’alpha de Cronbach.\nStatistiques descriptives des réponses.\nMatrice de corrélation entre variables indépendantes et satisfaction.\nRégression linéaire multiple expliquant la satisfaction."
   },
   {
-    "objectID": "etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html#résultats",
+    "href": "etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html#résultats",
     "title": "Étude de cas 05 — Digitalisation bancaire et satisfaction client",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nTous les alpha de Cronbach sont supérieurs à 0,7 : bonne fiabilité des échelles.\nLes réponses moyennes se situent entre 3 (indifférent) et 5 (tout à fait d’accord).\nL’adoption de l’application mobile, l’adoption du service de paiement mobile et l’expérience digitale sont corrélées positivement à la satisfaction (r &gt; 0,5 ; p &lt; 0,05).\nL’expérience client digitale présente l’effet le plus fort (β = 0,576 ; p = 0,0002) ; l’adoption de l’application mobile est également liée à la satisfaction (r = 0,704).\nLe modèle global est significatif (r = 0,808 ; R² = 0,654).\n\nLes coefficients détaillés et les tableaux ne sont pas publiés ici.\n\n\n\nCoefficients de régression avec intervalles de confiance\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nTous les alpha de Cronbach sont supérieurs à 0,7 : bonne fiabilité des échelles.\nLes réponses moyennes se situent entre 3 (indifférent) et 5 (tout à fait d’accord).\nL’adoption de l’application mobile, l’adoption du service de paiement mobile et l’expérience digitale sont corrélées positivement à la satisfaction (r &gt; 0,5 ; p &lt; 0,05).\nL’expérience client digitale présente l’effet le plus fort (β = 0,576 ; p = 0,0002) ; l’adoption de l’application mobile est également liée à la satisfaction (r = 0,704).\nLe modèle global est significatif (r = 0,808 ; R² = 0,654).\n\nLes coefficients détaillés et les tableaux ne sont pas publiés ici.\n\n\n\nCoefficients de régression avec intervalles de confiance"
   },
   {
     "objectID": "etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.html#limites",
@@ -294,11 +294,11 @@
     "text": "Démarche statistique\n\nDescription : effectifs (N), fréquences (%) et intervalles de confiance à 95 % (IC 95 %) pour les variables qualitatives.\nCharge parasitaire : moyenne, médiane, minimum et maximum des œufs/10 mL chez les cas positifs.\nAssociations : test exact de Fisher pour les variables catégorielles, seuil de significativité p &lt; 0,05 ; force des liaisons par odds ratios ajustés (ORa, IC 95 %), avec correction empirique de Haldane-Anscombe pour les modalités à 100 % d’infection.\nSuivi médical : comparaison des taux de positivité et des niveaux d’intensité selon le schéma thérapeutique (non traité versus traitement annuel).\nPerformance diagnostique : tableau de contingence 2 × 2 (positif si EPG &gt; 0 pour Mini-FLOTAC), sensibilité, spécificité, valeurs prédictives positive et négative, exactitude, avec IC exacts de Clopper-Pearson.\nConcordance : coefficient Kappa de Cohen (IC 95 % selon Fleiss), complété par un intervalle bootstrap (5 000 rééchantillonnages) ; biais systématique testé par le test de McNemar exact. Calculs vérifiés avec epiR."
   },
   {
-    "objectID": "etudes-de-cas/03-epidemiologie-schistosomiase/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/03-epidemiologie-schistosomiase/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/03-epidemiologie-schistosomiase/index.html#résultats",
+    "href": "etudes-de-cas/03-epidemiologie-schistosomiase/index.html#résultats",
     "title": "Étude de cas 03 — Épidémiologie de la schistosomiase",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nLe profil de l’échantillon a été décrit par des fréquences et IC 95 % pour l’ensemble des variables sociodémographiques, cliniques et malacologiques.\nLes associations entre caractéristiques des participants et infection ont été quantifiées par ORa, permettant d’identifier les facteurs liés à l’infection.\nLa concordance entre Mini-FLOTAC et la méthode de référence a été mesurée par Kappa, avec recherche d’un éventuel biais systématique.\n\nLes valeurs précises, tableaux de contingence et courbes ne sont pas publiés ici (données de travail confidentielles).\n\n\n\nOdds ratios ajustés avec intervalles de confiance\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nLe profil de l’échantillon a été décrit par des fréquences et IC 95 % pour l’ensemble des variables sociodémographiques, cliniques et malacologiques.\nLes associations entre caractéristiques des participants et infection ont été quantifiées par ORa, permettant d’identifier les facteurs liés à l’infection.\nLa concordance entre Mini-FLOTAC et la méthode de référence a été mesurée par Kappa, avec recherche d’un éventuel biais systématique.\n\nLes valeurs précises, tableaux de contingence et courbes ne sont pas publiés ici (données de travail confidentielles).\n\n\n\nOdds ratios ajustés avec intervalles de confiance"
   },
   {
     "objectID": "etudes-de-cas/03-epidemiologie-schistosomiase/index.html#limites",
@@ -336,11 +336,11 @@
     "text": "Démarche statistique\n\nPréparation : importation des fichiers Excel, mise en forme et nettoyage, passage au format long adapté aux modèles binomials.\nModélisation : régression logistique binomiale de la probabilité de mortalité en fonction de la dose, avec estimation des paramètres du modèle dose-réponse.\nEstimation des concentrations létales : calcul des doses produisant 50 % et 90 % de mortalité (LC50 / LC90) pour chaque population et chaque molécule.\nComparaison : lecture des estimations et de leurs intervalles pour apprécier les différences de sensibilité entre populations.\nRestitution : export des résultats sous forme de tableaux formatés pour un rapport scientifique."
   },
   {
-    "objectID": "etudes-de-cas/01-dose-reponse-dl50/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/01-dose-reponse-dl50/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/01-dose-reponse-dl50/index.html#résultats",
+    "href": "etudes-de-cas/01-dose-reponse-dl50/index.html#résultats",
     "title": "Étude de cas 01 — Dose-réponse et concentrations létales (DL50)",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nDes concentrations létales ont été estimées pour les deux molécules testées et pour chacune des populations.\nLa comparaison des LC50/LC90 met en évidence des niveaux de sensibilité différents selon les populations, information utile pour la gestion de la résistance.\nLes tableaux de concentrations létales ont été intégrés au rapport d’analyse avec leurs intervalles de confiance.\n\nLes valeurs numériques précises et les courbes dose-réponse ne sont pas publiées ici (données de travail confidentielles).\n\n\n\nCourbe dose-réponse illustrant l’estimation des concentrations létales\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nDes concentrations létales ont été estimées pour les deux molécules testées et pour chacune des populations.\nLa comparaison des LC50/LC90 met en évidence des niveaux de sensibilité différents selon les populations, information utile pour la gestion de la résistance.\nLes tableaux de concentrations létales ont été intégrés au rapport d’analyse avec leurs intervalles de confiance.\n\nLes valeurs numériques précises et les courbes dose-réponse ne sont pas publiées ici (données de travail confidentielles).\n\n\n\nCourbe dose-réponse illustrant l’estimation des concentrations létales"
   },
   {
     "objectID": "etudes-de-cas/01-dose-reponse-dl50/index.html#limites",
@@ -375,7 +375,7 @@
     "href": "a-propos.html#ce-que-vous-trouverez-ici",
     "title": "À propos",
     "section": "Ce que vous trouverez ici",
-    "text": "Ce que vous trouverez ici\n\n15 études de cas anonymisées, de la dose-réponse à l’analyse multivariée\nUne figure illustrative par étude, générée sur des données synthétiques\nUne matrice des compétences pour naviguer par méthode\nDes limites explicitement formulées pour chaque analyse"
+    "text": "Ce que vous trouverez ici\n\n15 études de cas anonymisées, de la dose-réponse à l’analyse multivariée\nUn tableau de bord par étude, pour une lecture visuelle des résultats\nUne matrice des compétences pour naviguer par méthode\nDes limites explicitement formulées pour chaque analyse"
   },
   {
     "objectID": "a-propos.html#confidentialité",
@@ -441,11 +441,11 @@
     "text": "Démarche statistique\n\nStatistiques descriptives : répartition des informatrices selon le recours aux plantes médicinales, effectifs et fréquences.\nFréquence de citation (FC) : classement des espèces les plus citées par les participants.\nFacteur de consensus des informateurs (ICF) : mesure du degré d’accord entre les répondants pour chaque catégorie de symptôme.\nStandardisation des symptômes : regroupement des réponses en catégories comparables avant calcul des indices.\nRestitution graphique : figures de répartition et de classement intégrées au rapport."
   },
   {
-    "objectID": "etudes-de-cas/02-indices-ethnobotaniques/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/02-indices-ethnobotaniques/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/02-indices-ethnobotaniques/index.html#résultats",
+    "href": "etudes-de-cas/02-indices-ethnobotaniques/index.html#résultats",
     "title": "Étude de cas 02 — Indices ethnobotaniques quantitatifs",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nUne hiérarchie des espèces les plus citées a été établie (FC), permettant d’identifier les plantes les plus utilisées.\nL’ICF a été calculé par catégorie de symptôme et classé par ordre décroissant, mettant en évidence les domaines d’usage où le consensus est le plus fort.\nLa répartition des informatrices selon le recours aux plantes médicinales a été décrite.\n\nLes figures et les tableaux détaillés ne sont pas publiés ici (données de travail confidentielles).\n\n\n\nFréquence de citation et facteur de consensus par catégorie\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nUne hiérarchie des espèces les plus citées a été établie (FC), permettant d’identifier les plantes les plus utilisées.\nL’ICF a été calculé par catégorie de symptôme et classé par ordre décroissant, mettant en évidence les domaines d’usage où le consensus est le plus fort.\nLa répartition des informatrices selon le recours aux plantes médicinales a été décrite.\n\nLes figures et les tableaux détaillés ne sont pas publiés ici (données de travail confidentielles).\n\n\n\nFréquence de citation et facteur de consensus par catégorie"
   },
   {
     "objectID": "etudes-de-cas/02-indices-ethnobotaniques/index.html#limites",
@@ -483,11 +483,11 @@
     "text": "Démarche statistique\n\nDescription des effectifs, fréquences et prévalences d’infestation.\nComparaison de la composition spécifique des sites par l’indice de similarité de Jaccard.\nAnalyse de la répartition selon le stade de développement et le sexe des tiques par test χ² d’indépendance.\nComparaison des taux d’infestation selon l’âge et le sexe des bovins."
   },
   {
-    "objectID": "etudes-de-cas/04-diversite-abondance-tiques/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/04-diversite-abondance-tiques/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/04-diversite-abondance-tiques/index.html#résultats",
+    "href": "etudes-de-cas/04-diversite-abondance-tiques/index.html#résultats",
     "title": "Étude de cas 04 — Diversité et abondance des tiques par commune",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nRhipicephalus microplus domine largement (72,59 % des tiques), devant Amblyomma variegatum (9,68 %) et R. decoloratus (8,02 %).\nLa prévalence d’infestation varie de 0,18 % à 68,03 % selon l’espèce ; R. microplus présente la plus forte prévalence.\nLes adultes représentent 99,40 % des tiques collectées, avec une nette dominance de femelles (90,16 %, p &lt; 0,001).\nLa charge parasitaire diffère significativement entre adultes et veaux (p &lt; 0,001) et entre sexes (p &lt; 0,001).\nL’indice de Jaccard (0,5 à 1) indique une forte similarité de composition entre communes, avec une homogénéité parfaite pour deux d’entre elles.\n\nLes tableaux détaillés et les cartes ne sont pas publiés ici.\n\n\n\nAbondance relative des espèces par commune\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nRhipicephalus microplus domine largement (72,59 % des tiques), devant Amblyomma variegatum (9,68 %) et R. decoloratus (8,02 %).\nLa prévalence d’infestation varie de 0,18 % à 68,03 % selon l’espèce ; R. microplus présente la plus forte prévalence.\nLes adultes représentent 99,40 % des tiques collectées, avec une nette dominance de femelles (90,16 %, p &lt; 0,001).\nLa charge parasitaire diffère significativement entre adultes et veaux (p &lt; 0,001) et entre sexes (p &lt; 0,001).\nL’indice de Jaccard (0,5 à 1) indique une forte similarité de composition entre communes, avec une homogénéité parfaite pour deux d’entre elles.\n\nLes tableaux détaillés et les cartes ne sont pas publiés ici.\n\n\n\nAbondance relative des espèces par commune"
   },
   {
     "objectID": "etudes-de-cas/04-diversite-abondance-tiques/index.html#limites",
@@ -525,11 +525,11 @@
     "text": "Démarche statistique\n\nTest de fiabilité des échelles (alpha de Cronbach).\nAnalyse descriptive des réponses et des sources de financement.\nMatrice de corrélation entre contraintes internes/externes et accès au financement.\nDeux modèles de régression linéaire (variables dépendantes : deux dimensions de l’accès au financement)."
   },
   {
-    "objectID": "etudes-de-cas/06-financement-organisations-femmes/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/06-financement-organisations-femmes/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/06-financement-organisations-femmes/index.html#résultats",
+    "href": "etudes-de-cas/06-financement-organisations-femmes/index.html#résultats",
     "title": "Étude de cas 06 — Financement des organisations féministes",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nBonne consistance interne des échelles (α = 0,850 et 0,772).\nLa réalisation d’un audit favorise l’obtention régulière de financements, tandis que le manque de structuration institutionnelle est perçu comme un frein majeur.\nCertaines sources internationales sont peu utilisées selon les répondants (réponses moyennes entre 1,77 et 2,67 sur une échelle à 4 modalités).\nLa réalisation d’un audit a un effet significatif positif (β = 0,572 ; p = 0,0006), alors que les difficultés de montage de projets ont un effet négatif (β = -0,455 ; p = 0,0131).\nQualité des modèles : r = 0,785 (R² = 0,616) et r = 0,730 (R² = 0,532).\n\nLes tableaux détaillés ne sont pas publiés ici.\n\n\n\nEffets positifs et négatifs sur l’accès au financement\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nBonne consistance interne des échelles (α = 0,850 et 0,772).\nLa réalisation d’un audit favorise l’obtention régulière de financements, tandis que le manque de structuration institutionnelle est perçu comme un frein majeur.\nCertaines sources internationales sont peu utilisées selon les répondants (réponses moyennes entre 1,77 et 2,67 sur une échelle à 4 modalités).\nLa réalisation d’un audit a un effet significatif positif (β = 0,572 ; p = 0,0006), alors que les difficultés de montage de projets ont un effet négatif (β = -0,455 ; p = 0,0131).\nQualité des modèles : r = 0,785 (R² = 0,616) et r = 0,730 (R² = 0,532).\n\nLes tableaux détaillés ne sont pas publiés ici.\n\n\n\nEffets positifs et négatifs sur l’accès au financement"
   },
   {
     "objectID": "etudes-de-cas/06-financement-organisations-femmes/index.html#limites",
@@ -567,11 +567,11 @@
     "text": "Démarche statistique\n\nCalcul des fréquences avec intervalles de confiance à 95 %.\nDescription du profil des répondants (sexe, âge, activité, pratiques d’élevage).\nAnalyse des correspondances multiples (ACM) pour explorer les associations entre modalités.\nInterprétation des dimensions principales (valeurs propres, inertie expliquée)."
   },
   {
-    "objectID": "etudes-de-cas/08-eco-epidemiologie-tiques/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/08-eco-epidemiologie-tiques/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/08-eco-epidemiologie-tiques/index.html#résultats",
+    "href": "etudes-de-cas/08-eco-epidemiologie-tiques/index.html#résultats",
     "title": "Étude de cas 08 — Éco-épidémiologie des tiques",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nUn département concentre 40,24 % des répondants ; 91,46 % sont des hommes, avec une majorité de 21 à 45 ans (67,07 %).\nL’élevage extensif est quasiment généralisé (98,78 %) et le mode semi-transhumant dominant (63,41 %).\nL’ACM montre que les deux premières dimensions restituent 31,42 % de l’inertie totale ; la première dimension explique 17,86 % de l’inertie.\nLe plan factoriel met en évidence une faible maîtrise du mode d’emploi des acaricides et des pratiques de compartimentage des troupeaux.\n\nCartes et tableaux détaillés non publiés ici.\n\n\n\nPlan factoriel issu d’une analyse des correspondances multiples\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nUn département concentre 40,24 % des répondants ; 91,46 % sont des hommes, avec une majorité de 21 à 45 ans (67,07 %).\nL’élevage extensif est quasiment généralisé (98,78 %) et le mode semi-transhumant dominant (63,41 %).\nL’ACM montre que les deux premières dimensions restituent 31,42 % de l’inertie totale ; la première dimension explique 17,86 % de l’inertie.\nLe plan factoriel met en évidence une faible maîtrise du mode d’emploi des acaricides et des pratiques de compartimentage des troupeaux.\n\nCartes et tableaux détaillés non publiés ici.\n\n\n\nPlan factoriel issu d’une analyse des correspondances multiples"
   },
   {
     "objectID": "etudes-de-cas/08-eco-epidemiologie-tiques/index.html#limites",
@@ -609,11 +609,11 @@
     "text": "Démarche statistique\n\nDétection stricte des valeurs aberrantes par la règle des quartiles (Q1 - 1,5 × IQR ; Q3 + 1,5 × IQR), par zone, sans imputation artificielle.\nTest de Shapiro-Wilk : normalité rejetée.\nDescription par médianes et écarts interquartiles [Q1 ; Q3].\nTest de Kruskal-Wallis pour les facteurs à plus de deux modalités (Zone, Zone × Sexe).\nTest de Wilcoxon-Mann-Whitney pour le facteur Sexe (deux modalités).\nComparaisons multiples avec seuil α = 0,05."
   },
   {
-    "objectID": "etudes-de-cas/10-mensurations-tests-non-parametriques/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/10-mensurations-tests-non-parametriques/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/10-mensurations-tests-non-parametriques/index.html#résultats",
+    "href": "etudes-de-cas/10-mensurations-tests-non-parametriques/index.html#résultats",
     "title": "Étude de cas 10 — Mensurations corporelles",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nLes variables morphométriques ne suivent pas une distribution normale.\nLes médianes assorties de lettres différentes indiquent des différences significatives au seuil de 5 %.\nLe test de Kruskal-Wallis met en évidence des variations significatives selon la zone et l’interaction Zone × Sexe.\nLe test de Mann-Whitney révèle un dimorphisme sexuel significatif sur les mensurations.\n\nTableaux détaillés non publiés ici.\n\n\n\nDistribution des mensurations par zone et sexe\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nLes variables morphométriques ne suivent pas une distribution normale.\nLes médianes assorties de lettres différentes indiquent des différences significatives au seuil de 5 %.\nLe test de Kruskal-Wallis met en évidence des variations significatives selon la zone et l’interaction Zone × Sexe.\nLe test de Mann-Whitney révèle un dimorphisme sexuel significatif sur les mensurations.\n\nTableaux détaillés non publiés ici.\n\n\n\nDistribution des mensurations par zone et sexe"
   },
   {
     "objectID": "etudes-de-cas/10-mensurations-tests-non-parametriques/index.html#limites",
@@ -651,11 +651,11 @@
     "text": "Démarche statistique\n\nImportation (readxl) et nettoyage (dplyr).\nRegroupement des réponses à choix multiples en catégories cliniques thématiques.\nAnalyse descriptive des fréquences (âge de survenue, symptômes, plantes, parties utilisées, modes de préparation et d’administration, durée d’usage)."
   },
   {
-    "objectID": "etudes-de-cas/12-plantes-medicinales-menopause/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/12-plantes-medicinales-menopause/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/12-plantes-medicinales-menopause/index.html#résultats",
+    "href": "etudes-de-cas/12-plantes-medicinales-menopause/index.html#résultats",
     "title": "Étude de cas 12 — Plantes médicinales et signes de la ménopause",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nL’âge moyen déclaré d’apparition des premiers signes est d’environ 46 ans, avec une variation principalement entre 40 et 52 ans.\nLes troubles vasomoteurs (20,23 %), du sommeil et la fatigue (19,58 %) et les douleurs musculaires (17,62 %) sont les signes les plus cités.\nLes feuilles sont la partie la plus utilisée (56,63 %), devant les racines (15,06 %) ; la sève et les fleurs sont marginales (&lt; 1 %).\nLa décoction (51,85 %) et l’infusion (31,11 %) dominent ; la voie orale est utilisée par 90,15 % des répondants.\n54,69 % des utilisateurs poursuivent l’usage jusqu’à satisfaction des symptômes.\n\nTableaux détaillés non publiés ici.\n\n\n\nFréquence des signes déclarés par catégorie clinique\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nL’âge moyen déclaré d’apparition des premiers signes est d’environ 46 ans, avec une variation principalement entre 40 et 52 ans.\nLes troubles vasomoteurs (20,23 %), du sommeil et la fatigue (19,58 %) et les douleurs musculaires (17,62 %) sont les signes les plus cités.\nLes feuilles sont la partie la plus utilisée (56,63 %), devant les racines (15,06 %) ; la sève et les fleurs sont marginales (&lt; 1 %).\nLa décoction (51,85 %) et l’infusion (31,11 %) dominent ; la voie orale est utilisée par 90,15 % des répondants.\n54,69 % des utilisateurs poursuivent l’usage jusqu’à satisfaction des symptômes.\n\nTableaux détaillés non publiés ici.\n\n\n\nFréquence des signes déclarés par catégorie clinique"
   },
   {
     "objectID": "etudes-de-cas/12-plantes-medicinales-menopause/index.html#limites",
@@ -693,11 +693,11 @@
     "text": "Démarche statistique\n\nCalcul des séroprévalences avec intervalles de confiance à 95 % (prop.test).\nComparaison des proportions par espèce, site, sexe et classe d’âge.\nTest exact de Fisher (fisher.test) pour les tableaux 2 × 2 et calcul des odds ratios avec IC 95 %."
   },
   {
-    "objectID": "etudes-de-cas/14-serologie-elisa/index.html#résultats-synthèse-anonymisée",
-    "href": "etudes-de-cas/14-serologie-elisa/index.html#résultats-synthèse-anonymisée",
+    "objectID": "etudes-de-cas/14-serologie-elisa/index.html#résultats",
+    "href": "etudes-de-cas/14-serologie-elisa/index.html#résultats",
     "title": "Étude de cas 14 — Séroprévalence ELISA chez animaux sauvages et domestiques",
-    "section": "Résultats (synthèse anonymisée)",
-    "text": "Résultats (synthèse anonymisée)\n\nChez les animaux sauvages : 1,18 % de séropositifs (3/254), avec des prévalences plus élevées chez deux espèces (3,7 % et 5,88 %).\nChez les animaux domestiques : 33,93 % de séropositifs (38/112) ; la séroprévalence bovine (41,98 %) dépasse celle des chevaux (16,67 %, p = 0,013) et des pigeons (0 %, p = 0,016).\nChez les bovins, une commune affiche 64,71 % contre 16,67 % dans une autre (p = 0,03) ; les femelles sont plus touchées (70,59 % vs 29,41 %, p &lt; 0,001).\nCertaines comparaisons conduisent à un odds ratio infini, indiquant une association très forte entre exposition et résultat.\n\nTableaux détaillés non publiés ici.\n\n\n\nSéroprévalence par espèce avec intervalles de confiance\n\n\nFigure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l’étude."
+    "section": "Résultats",
+    "text": "Résultats\n\nChez les animaux sauvages : 1,18 % de séropositifs (3/254), avec des prévalences plus élevées chez deux espèces (3,7 % et 5,88 %).\nChez les animaux domestiques : 33,93 % de séropositifs (38/112) ; la séroprévalence bovine (41,98 %) dépasse celle des chevaux (16,67 %, p = 0,013) et des pigeons (0 %, p = 0,016).\nChez les bovins, une commune affiche 64,71 % contre 16,67 % dans une autre (p = 0,03) ; les femelles sont plus touchées (70,59 % vs 29,41 %, p &lt; 0,001).\nCertaines comparaisons conduisent à un odds ratio infini, indiquant une association très forte entre exposition et résultat.\n\nTableaux détaillés non publiés ici.\n\n\n\nSéroprévalence par espèce avec intervalles de confiance"
   },
   {
     "objectID": "etudes-de-cas/14-serologie-elisa/index.html#limites",
@@ -718,6 +718,6 @@
     "href": "etudes.html",
     "title": "Études de cas",
     "section": "",
-    "text": "Chaque étude suit le même plan : besoin → décision éclairée → données → démarche statistique → résultats anonymisés → figure illustrative → limites → interprétation.\n\n\n\n#\nÉtude\nDomaine\nMéthodes clés\n\n\n\n\n01\nDose-réponse et concentrations létales (DL50)\nDose-réponse\nRégression binomiale, LC50/LC90\n\n\n02\nIndices ethnobotaniques quantitatifs\nEthnobotanique\nFC, ICF, descriptif\n\n\n03\nÉpidémiologie de la schistosomiase\nÉpidémiologie\nPrévalence, Fisher, ORa, Kappa\n\n\n04\nDiversité et abondance des tiques\nÉcologie\nJaccard, χ², prévalence\n\n\n05\nDigitalisation bancaire et satisfaction\nEnquêtes\nCronbach, corrélation, régression\n\n\n06\nFinancement des organisations féministes\nEnquêtes\nFiabilité, corrélations, régression\n\n\n07\nAnalyse sensorielle comparative\nEnquêtes\nKruskal-Wallis, ACP\n\n\n08\nÉco-épidémiologie des tiques\nÉpidémiologie\nIC 95 %, ACM\n\n\n09\nPhénotype des canards — analyse multivariée\nMultivariée\nCCI, ACP, ACM, CAH, PERMANOVA\n\n\n10\nMensurations corporelles\nMultivariée\nShapiro-Wilk, Kruskal-Wallis, Mann-Whitney\n\n\n11\nDensité larvaire et phytoplanctons\nÉpidémiologie\nGLM binomial, prédictions\n\n\n12\nPlantes médicinales et ménopause\nEthnobotanique\nDescriptif, catégorisation clinique\n\n\n13\nTiques en parc zoologique\nÉcologie\nShannon, Sørensen, Bray-Curtis, rarefaction\n\n\n14\nSérologie ELISA\nÉpidémiologie\nprop.test, Fisher, odds ratios\n\n\n15\nPlantes mellifères et miel\nÉcologie\nShannon, fréquence de citation, régression\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nLes figures affichées dans chaque étude sont des illustrations sur données synthétiques : elles ne représentent ni les données ni les résultats réels de l’étude."
+    "text": "Chaque étude suit le même plan : besoin → décision éclairée → données → démarche statistique → résultats anonymisés → tableau de bord → limites → interprétation.\n\n\n\n#\nÉtude\nDomaine\nMéthodes clés\n\n\n\n\n01\nDose-réponse et concentrations létales (DL50)\nDose-réponse\nRégression binomiale, LC50/LC90\n\n\n02\nIndices ethnobotaniques quantitatifs\nEthnobotanique\nFC, ICF, descriptif\n\n\n03\nÉpidémiologie de la schistosomiase\nÉpidémiologie\nPrévalence, Fisher, ORa, Kappa\n\n\n04\nDiversité et abondance des tiques\nÉcologie\nJaccard, χ², prévalence\n\n\n05\nDigitalisation bancaire et satisfaction\nEnquêtes\nCronbach, corrélation, régression\n\n\n06\nFinancement des organisations féministes\nEnquêtes\nFiabilité, corrélations, régression\n\n\n07\nAnalyse sensorielle comparative\nEnquêtes\nKruskal-Wallis, ACP\n\n\n08\nÉco-épidémiologie des tiques\nÉpidémiologie\nIC 95 %, ACM\n\n\n09\nPhénotype des canards — analyse multivariée\nMultivariée\nCCI, ACP, ACM, CAH, PERMANOVA\n\n\n10\nMensurations corporelles\nMultivariée\nShapiro-Wilk, Kruskal-Wallis, Mann-Whitney\n\n\n11\nDensité larvaire et phytoplanctons\nÉpidémiologie\nGLM binomial, prédictions\n\n\n12\nPlantes médicinales et ménopause\nEthnobotanique\nDescriptif, catégorisation clinique\n\n\n13\nTiques en parc zoologique\nÉcologie\nShannon, Sørensen, Bray-Curtis, rarefaction\n\n\n14\nSérologie ELISA\nÉpidémiologie\nprop.test, Fisher, odds ratios\n\n\n15\nPlantes mellifères et miel\nÉcologie\nShannon, fréquence de citation, régression\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nChaque tableau de bord est une restitution visuelle des résultats décrits dans l’étude."
   }
 ]
