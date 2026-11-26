@@ -30,7 +30,3 @@ Données de mortalité issues d'essais biologiques en concentration croissante, 
 ## Interprétation
 
 L'approche par régression binomiale permet de passer d'observations de mortalité brutales à une **relation dose-effet continue**, et donc de comparer des populations sur une échelle commune. Elle fournit des indicateurs directement exploitables (LC50, LC90) pour recommander des stratégies de traitement ou de surveillance.
-
-## Fiche méthode associée
-
-Le cours de biostatistique contient un exercice équivalent sur la régression binomiale et la détermination d'un seuil à 50 % (exercice 15 : olfactométrie), documenté dans le panorama des [22 exercices STATISTICA](../../fiches-methodes/STATISTICA-22-exercices.md).

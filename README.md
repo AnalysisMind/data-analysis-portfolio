@@ -15,10 +15,6 @@ Ce dépôt présente des **études de cas rédigées** : la question posée, la 
 | 02 | [Indices ethnobotaniques quantitatifs](etudes-de-cas/02-indices-ethnobotaniques/README.md) | Statistiques descriptives, fréquence de citation (FC), facteur de consensus (ICF) |
 | 03 | [Épidémiologie de la schistosomiase](etudes-de-cas/03-epidemiologie-schistosomiase/README.md) | Prévalence, IC 95 %, test exact de Fisher, OR ajustés, Kappa, sensibilité/spécificité |
 
-## Fiches méthodes
-
-- [22 exercices d'application STATISTICA](fiches-methodes/STATISTICA-22-exercices.md) — panorama des tests vus en biostatistique (normalité, comparaisons de moyennes, contingence, corrélations, régressions, ACP, AFC, CAH).
-
 ## Note de confidentialité
 
 Toutes les études de cas de ce dépôt sont **anonymisées** : aucun nom de client, aucune donnée brute nominative, aucun rapport original. Les chiffres détaillés et les figures restent dans les documents de travail privés.

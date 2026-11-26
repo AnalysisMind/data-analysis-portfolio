@@ -31,7 +31,3 @@ Base structurée sous Excel comprenant des variables sociodémographiques (sexe,
 ## Interprétation
 
 Cette analyse combine **description, recherche de déterminants et validation d'outil diagnostique**. L'utilisation de tests exacts et de méthodes de bootstrap tient compte des faibles effectifs, tandis que les OR ajustés permettent de distinguer les associations indépendantes. Elle illustre un pipeline complet d'analyse épidémiologique, de la donnée brute à la décision de santé publique.
-
-## Fiches méthodes associées
-
-Tableaux de contingence et tests : exercices 08, 11, 12 du panorama [22 exercices STATISTICA](../../fiches-methodes/STATISTICA-22-exercices.md).

@@ -30,7 +30,3 @@ Données d'enquête anonymisées : citations d'espèces végétales, catégories
 ## Interprétation
 
 Les indices ethnobotaniques transforment des citations qualitatives en **indicateurs comparables**. La fréquence de citation met en évidence les espèces les plus présentes dans la pratique, tandis que l'ICF révèle les syndromes pour lesquels les savoirs sont les plus partagés — deux informations complémentaires pour prioriser des études pharmacologiques ou de conservation.
-
-## Fiches méthodes associées
-
-Statistiques descriptives et tableaux de contingence : voir le panorama des [22 exercices STATISTICA](../../fiches-methodes/STATISTICA-22-exercices.md) (exercices 01, 08, 11, 12).
