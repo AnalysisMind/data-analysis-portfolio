@@ -49,6 +49,10 @@
   line-height: 1.1;
 }
 
+.stats > div:nth-child(6) strong {
+  font-size: 1.15rem;
+}
+
 .stats span {
   display: block;
   font-size: 0.82rem;
