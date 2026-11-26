@@ -1,7 +1,7 @@
 # Étude de cas 02 — Indices ethnobotaniques quantitatifs
 
 **Domaine** : ethnobotanique, statistiques descriptives  
-**Outils** : Excel, STATISTICA, R
+**Outils** : Excel, R
 
 ## Question posée
 
