@@ -1,9 +1,7 @@
 ---
 title: "Compétences"
-description: "Matrice des méthodes statistiques et des études de cas correspondantes."
+description: "Méthodes statistiques et études de cas correspondantes."
 ---
-
-## Matrice méthodes ↔ études
 
 | Famille | Méthodes | Études |
 |---|---|---|
@@ -20,7 +18,11 @@ description: "Matrice des méthodes statistiques et des études de cas correspon
 
 ## Outils
 
-**R** (`tidyverse`, `readxl`, `dplyr`, `tidyr`, `openxlsx`, `officer`, `flextable`, `epiR`, `ggplot2`) · **STATISTICA** · **Excel** · **SPSS** · **KoboToolbox** · **Quarto**
+**R — manipulation et restitution** : `tidyverse`, `dplyr`, `tidyr`, `readxl`, `openxlsx`, `officer`, `flextable`, `ggplot2`
+
+**R — statistiques et modélisation** : `epiR`, `FactoMineR`, `factoextra`, `FactoShiny`, `car`, `PMCMRplus`, `lme4`, `nnet`, `MASS`, `survival`, `tidymodels`, `broom`
+
+**Autres outils** : **STATISTICA** · **Excel** · **SPSS** · **KoboToolbox** · **Quarto**
 
 ## Domaines couverts
 

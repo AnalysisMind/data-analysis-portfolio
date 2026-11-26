@@ -49,8 +49,8 @@
   line-height: 1.1;
 }
 
-.stats > div:nth-child(4) strong {
-  font-size: 1.25rem;
+.stats > div:nth-child(n+3) strong {
+  font-size: 1.05rem;
 }
 
 .stats span {
@@ -58,6 +58,21 @@
   font-size: 0.82rem;
   color: #5b6b73;
   margin-top: 0.25rem;
+}
+
+.livrable {
+  border-left: 3px solid #4c8c6a;
+  background: #f5f8fa;
+  border-radius: 0.35rem;
+  padding: 0.75rem 1rem;
+  margin: -1rem 0 2.2rem;
+  font-size: 0.9rem;
+  color: #45565e;
+  line-height: 1.5;
+}
+
+.livrable strong {
+  color: #1f4e63;
 }
 
 img {
