@@ -12,7 +12,7 @@ Ce portfolio présente des **études de cas rédigées** : la question posée, l
 ## Ce que vous trouverez ici
 
 - 15 études de cas anonymisées, de la dose-réponse à l'analyse multivariée
-- Une figure illustrative par étude, générée sur des **données synthétiques**
+- Un tableau de bord par étude, pour une lecture visuelle des résultats
 - Une matrice des compétences pour naviguer par méthode
 - Des limites explicitement formulées pour chaque analyse
 

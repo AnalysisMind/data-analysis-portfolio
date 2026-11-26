@@ -20,7 +20,7 @@ Comment la zone géographique et le sexe structurent-ils la variabilité morphom
 5. PERMANOVA (Mesures ~ Zone × Sexe) sur matrice de distances euclidiennes.
 6. Tableaux de contingence avec p-values simulées par Monte-Carlo (2 000 réplications) pour les faibles effectifs.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - 17 des 23 paramètres initiaux présentent des biais inter-communes ; 6 variables robustes ont été retenues.
 - L'ACP sur le noyau harmonisé restitue 61,7 % de la variance (Axe 1 : 43,7 % ; Axe 2 : 18,0 %).

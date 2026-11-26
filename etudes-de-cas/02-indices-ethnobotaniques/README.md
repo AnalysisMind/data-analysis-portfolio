@@ -19,7 +19,7 @@ Données d'enquête anonymisées : citations d'espèces végétales, catégories
 4. **Standardisation des symptômes** : regroupement des réponses en catégories comparables avant calcul des indices.
 5. **Restitution graphique** : figures de répartition et de classement intégrées au rapport.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Une hiérarchie des espèces les plus citées a été établie (FC), permettant d'identifier les plantes les plus utilisées.
 - L'ICF a été calculé par catégorie de symptôme et classé par ordre décroissant, mettant en évidence les domaines d'usage où le consensus est le plus fort.

@@ -19,7 +19,7 @@ Collectes sur quatre sites (deux axes, parc/périphérie), avec effectifs, espè
 4. Rarefaction de la richesse pour standardiser l'effort d'échantillonnage.
 5. Comparaison des distributions par tests statistiques et analyse des sex-ratios.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Quatre espèces d'importance vétérinaire et zoonotique identifiées, présentes sur les deux axes mais en proportions significativement différentes (p < 0,0001).
 - La richesse spécifique est constante (S = 4) et l'indice de Shannon varie de 1,069 à 1,215 : diversité élevée et équilibrée.

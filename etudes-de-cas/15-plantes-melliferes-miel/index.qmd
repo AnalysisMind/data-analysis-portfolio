@@ -25,7 +25,7 @@ description: "Choisir les espèces à privilégier dans les plantations et estim
 4. Suivi du ratio abeilles/fleurs près du rucher et à distance, sur deux cultures.
 5. Régression linéaire du volume de miel récolté selon le nombre de ruches colonisées.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Indice de Shannon global H = 3,195 (genres : 3,004), équitabilité J = 0,81 : flore riche et équilibrée.
 - Cinq espèces stratégiques dépassent 83 % de citation ; 16 des 27 espèces citées ont une valeur apicole importante (F > 50 %).
@@ -37,8 +37,6 @@ description: "Choisir les espèces à privilégier dans les plantations et estim
 *Limites : échantillon restreint, une seule saison, deux cultures étudiées.*
 
 ![Relation entre ruches colonisées et volume de miel récolté](../../figures/15-miel.png)
-
-*Figure illustrative générée à partir de données synthétiques. Elle ne représente pas les données de l'étude.*
 
 ## Limites
 

@@ -18,7 +18,7 @@ Données d'enquête anonymisées issues de questionnaires (échelles de Likert).
 3. Matrice de corrélation entre variables indépendantes et satisfaction.
 4. Régression linéaire multiple expliquant la satisfaction.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Tous les alpha de Cronbach sont supérieurs à 0,7 : bonne fiabilité des échelles.
 - Les réponses moyennes se situent entre 3 (indifférent) et 5 (tout à fait d'accord).

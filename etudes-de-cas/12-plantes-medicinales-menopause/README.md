@@ -17,7 +17,7 @@ Quelles plantes, parties de plantes et modes de préparation sont utilisés par 
 2. Regroupement des réponses à choix multiples en catégories cliniques thématiques.
 3. Analyse descriptive des fréquences (âge de survenue, symptômes, plantes, parties utilisées, modes de préparation et d'administration, durée d'usage).
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - L'âge moyen déclaré d'apparition des premiers signes est d'environ 46 ans, avec une variation principalement entre 40 et 52 ans.
 - Les troubles vasomoteurs (20,23 %), du sommeil et la fatigue (19,58 %) et les douleurs musculaires (17,62 %) sont les signes les plus cités.

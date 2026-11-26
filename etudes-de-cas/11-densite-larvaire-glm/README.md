@@ -19,7 +19,7 @@ Abondances de dix espèces de phytoplanctons et statut de présence/absence de l
 4. Génération de jeux de données hypothétiques (`newdata`) en faisant varier chaque espèce de son minimum à son maximum, les autres étant fixées à leur moyenne.
 5. Visualisation des courbes de probabilité facettées avec `ggplot2`.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - L'abondance de *Kirchneriella* est associée à une augmentation marquée de la probabilité de présence de larves.
 - À l'inverse, *Scenedesmus quadricauda* montre une relation décroissante avec cette probabilité.

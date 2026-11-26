@@ -18,7 +18,7 @@ Notes sensorielles attribuées à six échantillons selon plusieurs critères (c
 3. Comparaisons pair-à-pair de Dwass-Steel-Critchlow-Fligner.
 4. Analyse en composantes principales (ACP) pour visualiser la proximité entre échantillons et critères.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Seuls les critères arôme, texture, goût, acidité et acceptabilité diffèrent significativement entre échantillons (p < 0,05).
 - La couleur et l'aspect ne permettent pas de différencier les formulations (p > 0,05).

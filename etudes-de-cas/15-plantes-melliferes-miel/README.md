@@ -19,7 +19,7 @@ Quelle est la diversité des plantes mellifères d'une arrondissement, quelles e
 4. Suivi du ratio abeilles/fleurs près du rucher et à distance, sur deux cultures.
 5. Régression linéaire du volume de miel récolté selon le nombre de ruches colonisées.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Indice de Shannon global H = 3,195 (genres : 3,004), équitabilité J = 0,81 : flore riche et équilibrée.
 - Cinq espèces stratégiques dépassent 83 % de citation ; 16 des 27 espèces citées ont une valeur apicole importante (F > 50 %).

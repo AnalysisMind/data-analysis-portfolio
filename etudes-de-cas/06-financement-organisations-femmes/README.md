@@ -18,7 +18,7 @@ Données d'enquête anonymisées auprès de bailleurs et de structures (échelle
 3. Matrice de corrélation entre contraintes internes/externes et accès au financement.
 4. Deux modèles de régression linéaire (variables dépendantes : deux dimensions de l'accès au financement).
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Bonne consistance interne des échelles (α = 0,850 et 0,772).
 - La réalisation d'un audit favorise l'obtention régulière de financements, tandis que le manque de structuration institutionnelle est perçu comme un frein majeur.

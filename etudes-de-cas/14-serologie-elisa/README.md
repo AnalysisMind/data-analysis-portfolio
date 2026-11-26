@@ -17,7 +17,7 @@ Quelle est la séroprévalence observée chez les animaux sauvages et domestique
 2. Comparaison des proportions par espèce, site, sexe et classe d'âge.
 3. Test exact de Fisher (`fisher.test`) pour les tableaux 2 × 2 et calcul des odds ratios avec IC 95 %.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Chez les animaux sauvages : 1,18 % de séropositifs (3/254), avec des prévalences plus élevées chez deux espèces (3,7 % et 5,88 %).
 - Chez les animaux domestiques : 33,93 % de séropositifs (38/112) ; la séroprévalence bovine (41,98 %) dépasse celle des chevaux (16,67 %, p = 0,013) et des pigeons (0 %, p = 0,016).

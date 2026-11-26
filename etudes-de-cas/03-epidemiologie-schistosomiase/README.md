@@ -20,7 +20,7 @@ Base structurée sous Excel comprenant des variables sociodémographiques (sexe,
 5. **Performance diagnostique** : tableau de contingence 2 × 2 (positif si EPG > 0 pour Mini-FLOTAC), sensibilité, spécificité, valeurs prédictives positive et négative, exactitude, avec IC exacts de Clopper-Pearson.
 6. **Concordance** : coefficient Kappa de Cohen (IC 95 % selon Fleiss), complété par un intervalle bootstrap (5 000 rééchantillonnages) ; biais systématique testé par le test de McNemar exact. Calculs vérifiés avec `epiR`.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Le profil de l'échantillon a été décrit par des fréquences et IC 95 % pour l'ensemble des variables sociodémographiques, cliniques et malacologiques.
 - Les associations entre caractéristiques des participants et infection ont été quantifiées par ORa, permettant d'identifier les facteurs liés à l'infection.

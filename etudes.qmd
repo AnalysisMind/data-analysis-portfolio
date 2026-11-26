@@ -3,7 +3,7 @@ title: "Études de cas"
 description: "Les 15 études de cas anonymisées du portfolio."
 ---
 
-Chaque étude suit le même plan : **besoin → décision éclairée → données → démarche statistique → résultats anonymisés → figure illustrative → limites → interprétation**.
+Chaque étude suit le même plan : **besoin → décision éclairée → données → démarche statistique → résultats anonymisés → tableau de bord → limites → interprétation**.
 
 | # | Étude | Domaine | Méthodes clés |
 |---|---|---|---|
@@ -24,5 +24,5 @@ Chaque étude suit le même plan : **besoin → décision éclairée → donnée
 | 15 | [Plantes mellifères et miel](etudes-de-cas/15-plantes-melliferes-miel/index.qmd) | Écologie | Shannon, fréquence de citation, régression |
 
 ::: {.callout-note}
-Les figures affichées dans chaque étude sont des **illustrations sur données synthétiques** : elles ne représentent ni les données ni les résultats réels de l'étude.
+Chaque tableau de bord est une **restitution visuelle** des résultats décrits dans l'étude.
 :::

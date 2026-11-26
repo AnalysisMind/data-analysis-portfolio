@@ -20,7 +20,7 @@ Plus de 700 individus mesurés. Données de terrain confidentielles, non publié
 5. Test de Wilcoxon-Mann-Whitney pour le facteur Sexe (deux modalités).
 6. Comparaisons multiples avec seuil α = 0,05.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Les variables morphométriques ne suivent pas une distribution normale.
 - Les médianes assorties de lettres différentes indiquent des différences significatives au seuil de 5 %.

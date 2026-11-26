@@ -18,7 +18,7 @@ Données d'enquête collectées avec KoboToolbox, codées et exploitées sous Ex
 3. Analyse des correspondances multiples (ACM) pour explorer les associations entre modalités.
 4. Interprétation des dimensions principales (valeurs propres, inertie expliquée).
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Un département concentre 40,24 % des répondants ; 91,46 % sont des hommes, avec une majorité de 21 à 45 ans (67,07 %).
 - L'élevage extensif est quasiment généralisé (98,78 %) et le mode semi-transhumant dominant (63,41 %).

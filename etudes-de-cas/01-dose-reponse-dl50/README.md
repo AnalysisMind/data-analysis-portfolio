@@ -19,7 +19,7 @@ Données de mortalité issues d'essais biologiques en concentration croissante, 
 4. **Comparaison** : lecture des estimations et de leurs intervalles pour apprécier les différences de sensibilité entre populations.
 5. **Restitution** : export des résultats sous forme de tableaux formatés pour un rapport scientifique.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - Des concentrations létales ont été estimées pour les deux molécules testées et pour chacune des populations.
 - La comparaison des LC50/LC90 met en évidence des niveaux de sensibilité différents selon les populations, information utile pour la gestion de la résistance.

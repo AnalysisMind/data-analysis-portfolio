@@ -18,7 +18,7 @@ Quelle est la composition spécifique des tiques collectées sur les bovins dans
 3. Analyse de la répartition selon le stade de développement et le sexe des tiques par test χ² d'indépendance.
 4. Comparaison des taux d'infestation selon l'âge et le sexe des bovins.
 
-## Résultats (synthèse anonymisée)
+## Résultats
 
 - *Rhipicephalus microplus* domine largement (72,59 % des tiques), devant *Amblyomma variegatum* (9,68 %) et *R. decoloratus* (8,02 %).
 - La prévalence d'infestation varie de 0,18 % à 68,03 % selon l'espèce ; *R. microplus* présente la plus forte prévalence.
