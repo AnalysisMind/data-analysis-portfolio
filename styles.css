@@ -49,8 +49,8 @@
   line-height: 1.1;
 }
 
-.stats > div:nth-child(6) strong {
-  font-size: 1.15rem;
+.stats > div:nth-child(4) strong {
+  font-size: 1.25rem;
 }
 
 .stats span {
