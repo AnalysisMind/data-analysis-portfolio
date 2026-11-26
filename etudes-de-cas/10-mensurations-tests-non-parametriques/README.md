@@ -1,4 +1,4 @@
-# Étude de cas 10 — Mensurations corporelles : tests non paramétriques
+# Étude de cas 10 — Mensurations corporelles
 
 **Domaine** : morphométrie, statistiques non paramétriques  
 **Outils** : R 4.6.0 (`tidyverse`, `readxl`, `broom`, `officer`, `flextable`)

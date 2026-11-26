@@ -20,7 +20,7 @@ Ce dépôt présente des **études de cas rédigées** : la question posée, la 
 | 07 | [Analyse sensorielle comparative](etudes-de-cas/07-analyse-sensorielle/README.md) | Kruskal-Wallis, Dwass-Steel-Critchlow-Fligner, ACP |
 | 08 | [Éco-épidémiologie des tiques](etudes-de-cas/08-eco-epidemiologie-tiques/README.md) | IC 95 %, ACM, inertie |
 | 09 | [Phénotype des canards — analyse multivariée](etudes-de-cas/09-phenotypique-canards-multivarie/README.md) | CCI, ACP, ACM, CAH, PERMANOVA, Monte-Carlo |
-| 10 | [Mensurations — tests non paramétriques](etudes-de-cas/10-mensurations-tests-non-parametriques/README.md) | Shapiro-Wilk, Kruskal-Wallis, Mann-Whitney, outliers |
+| 10 | [Mensurations corporelles](etudes-de-cas/10-mensurations-tests-non-parametriques/README.md) | Shapiro-Wilk, Kruskal-Wallis, Mann-Whitney, outliers |
 | 11 | [Densité larvaire et phytoplanctons](etudes-de-cas/11-densite-larvaire-glm/README.md) | GLM binomial, courbes de prédiction |
 | 12 | [Plantes médicinales et ménopause](etudes-de-cas/12-plantes-medicinales-menopause/README.md) | Statistiques descriptives, catégorisation clinique |
 | 13 | [Tiques en parc zoologique](etudes-de-cas/13-tiques-parc-zoologique/README.md) | Shannon, Piélou, Sørensen, Bray-Curtis, rarefaction |
