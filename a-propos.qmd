@@ -24,4 +24,20 @@ Toutes les études de cas de ce dépôt sont **anonymisées**. Les chiffres dét
 
 ## Contact
 
-Le moyen le plus simple de me joindre est d'ouvrir une **issue sur le [dépôt GitHub](https://github.com/AnalysisMind/data-analysis-portfolio)** du portfolio.
+Vous avez un projet d'analyse, une question méthodologique ou besoin d'une restitution claire ? Je serai ravi d'en discuter.
+
+::: {.callout-tip}
+**Je peux vous aider à :**
+
+- structurer une question de recherche ou un plan d'analyse ;
+- analyser des données d'enquête, biologiques ou épidémiologiques ;
+- produire un rapport détaillé : objectifs, hypothèses, méthodologie, résultats, interprétation, conclusions ;
+- concevoir des tableaux de bord et des visuels de restitution.
+:::
+
+📧 **[analysismind.data@gmail.com](mailto:analysismind.data@gmail.com)**  
+🔗 [GitHub](https://github.com/AnalysisMind)
+
+Je réponds généralement sous 48 h. Les échanges et les données partagées restent confidentiels : rien n'est publié sans accord préalable.
+
+[Écrire un e-mail](mailto:analysismind.data@gmail.com){.btn .btn-primary}
