@@ -5,16 +5,16 @@ description: "Méthodes statistiques et études de cas correspondantes."
 
 | Famille | Méthodes | Études |
 |---|---|---|
-| Statistiques descriptives | Effectifs, fréquences, IC 95 %, médianes et IQR | 02, 03, 04, 08, 12, 15 |
-| Tests de comparaison | χ², Fisher exact, McNemar, Shapiro-Wilk | 03, 04, 07, 10, 14 |
-| Tests non paramétriques | Kruskal-Wallis, Mann-Whitney, Dwass-Steel-Critchlow-Fligner | 07, 10 |
-| Régression | Logistique/binomiale, linéaire multiple, GLM, courbes de prédiction | 01, 05, 06, 11, 14, 15 |
-| Dose-réponse | Estimation LC50/LC90, comparaison de sensibilité | 01 |
-| Analyse multivariée | ACP, ACM, CAH, PERMANOVA, Monte-Carlo | 07, 08, 09 |
-| Écologie | Shannon, Piélou, Jaccard, Sørensen, Bray-Curtis, rarefaction | 04, 13, 15 |
-| Validation diagnostique | Sensibilité, spécificité, VPP/VPN, Kappa, bootstrap | 03 |
-| Qualité des données | Alpha de Cronbach, CCI, détection d'outliers, biais inter-communes | 05, 06, 09, 10 |
-| Indices métiers | Fréquence de citation, facteur de consensus | 02, 12, 15 |
+| Statistiques descriptives | Effectifs, fréquences, IC 95 %, médianes et IQR | [02](etudes-de-cas/02-indices-ethnobotaniques/index.qmd), [03](etudes-de-cas/03-epidemiologie-schistosomiase/index.qmd), [04](etudes-de-cas/04-diversite-abondance-tiques/index.qmd), [08](etudes-de-cas/08-eco-epidemiologie-tiques/index.qmd), [12](etudes-de-cas/12-plantes-medicinales-menopause/index.qmd), [15](etudes-de-cas/15-plantes-melliferes-miel/index.qmd) |
+| Tests de comparaison | χ², Fisher exact, McNemar, Shapiro-Wilk | [03](etudes-de-cas/03-epidemiologie-schistosomiase/index.qmd), [04](etudes-de-cas/04-diversite-abondance-tiques/index.qmd), [07](etudes-de-cas/07-analyse-sensorielle/index.qmd), [10](etudes-de-cas/10-mensurations-tests-non-parametriques/index.qmd), [14](etudes-de-cas/14-serologie-elisa/index.qmd) |
+| Tests non paramétriques | Kruskal-Wallis, Mann-Whitney, Dwass-Steel-Critchlow-Fligner | [07](etudes-de-cas/07-analyse-sensorielle/index.qmd), [10](etudes-de-cas/10-mensurations-tests-non-parametriques/index.qmd) |
+| Régression | Logistique/binomiale, linéaire multiple, GLM, courbes de prédiction | [01](etudes-de-cas/01-dose-reponse-dl50/index.qmd), [05](etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.qmd), [06](etudes-de-cas/06-financement-organisations-femmes/index.qmd), [11](etudes-de-cas/11-densite-larvaire-glm/index.qmd), [14](etudes-de-cas/14-serologie-elisa/index.qmd), [15](etudes-de-cas/15-plantes-melliferes-miel/index.qmd) |
+| Dose-réponse | Estimation LC50/LC90, comparaison de sensibilité | [01](etudes-de-cas/01-dose-reponse-dl50/index.qmd) |
+| Analyse multivariée | ACP, ACM, CAH, PERMANOVA, Monte-Carlo | [07](etudes-de-cas/07-analyse-sensorielle/index.qmd), [08](etudes-de-cas/08-eco-epidemiologie-tiques/index.qmd), [09](etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd) |
+| Écologie | Shannon, Piélou, Jaccard, Sørensen, Bray-Curtis, rarefaction | [04](etudes-de-cas/04-diversite-abondance-tiques/index.qmd), [13](etudes-de-cas/13-tiques-parc-zoologique/index.qmd), [15](etudes-de-cas/15-plantes-melliferes-miel/index.qmd) |
+| Validation diagnostique | Sensibilité, spécificité, VPP/VPN, Kappa, bootstrap | [03](etudes-de-cas/03-epidemiologie-schistosomiase/index.qmd) |
+| Qualité des données | Alpha de Cronbach, CCI, détection d'outliers, biais inter-communes | [05](etudes-de-cas/05-digitalisation-satisfaction-bancaire/index.qmd), [06](etudes-de-cas/06-financement-organisations-femmes/index.qmd), [09](etudes-de-cas/09-phenotypique-canards-multivarie/index.qmd), [10](etudes-de-cas/10-mensurations-tests-non-parametriques/index.qmd) |
+| Indices métiers | Fréquence de citation, facteur de consensus | [02](etudes-de-cas/02-indices-ethnobotaniques/index.qmd), [12](etudes-de-cas/12-plantes-medicinales-menopause/index.qmd), [15](etudes-de-cas/15-plantes-melliferes-miel/index.qmd) |
 
 ## Outils
 
